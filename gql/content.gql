@@ -1,0 +1,58 @@
+# content.gql
+
+
+## syllabus content for this learning area, subject  and stage
+type content {
+	## the broad learning area
+	learning_area: String
+	## the subject of the syllabus
+    subject: String
+    ## the learning stage it applies to
+    stage: String
+    ## the year-levels covered 
+    yrLvls: [Int]
+    ## the courses to be covered
+    courses: [course]
+}
+
+## a unit of work to be covered in the syllabus
+type course {
+	## the course name
+	name: String
+	## the expected outcomes against framework
+	outcomes: [outcome]
+	## the associated life-skills ids
+	lifeskills_outcomes: [String]
+	## the inquiries students will pursue
+	inquiry_questions: [String]
+	## the broad focus of the course
+	focus: String
+	## the individual content areas of this course
+	content_areas: [content_area]
+}
+
+## the expected outcomes 
+type outcome {
+	## a description of the outcome 
+	description: String
+	## identifier to link to outcomes framework
+	id: String
+}
+
+## area of study to be covered
+type content_area {
+	## name of the content area
+	name: String
+	## the investigations to be undertaken by students
+	investigations: [investigation]
+}
+
+## details of expected investigations
+type investigation {
+	## description of the investigation
+	description: String
+	## id to link to Australian Curriculum resources
+	ac: [String]
+	## examples of how the investigation may be undertaken
+	examples: [String]
+}

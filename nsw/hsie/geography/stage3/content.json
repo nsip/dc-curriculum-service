@@ -1,0 +1,154 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "3",
+    "yrLvls": [5, 6],
+    "courses": [
+    {
+        "name": "Factors that shape places",
+        "outcomes": [
+        {
+            "description": "describes the diverse features and characteristics of places and environments",
+            "id": "GE3-1"
+        },
+        {
+            "description": "explains interactions and connections between people, places and environments",
+            "id": "GE3-2"
+        },
+        {
+            "description": "compares and contrasts influences on the management of places and environments",
+            "id": "GE3-3"
+        },
+        {
+            "description": "acquires, processes and communicates geographical information using geographical tools for inquiry",
+            "id": "GE3-4"
+        }],
+        "inquiry_questions": [
+            "How do people and environments influence one another?",
+            "How do people influence places and the management of spaces within them?",
+            "How can the impact of bushfires on people and places be reduced?"
+        ],
+        "focus": "Students investigate how people change the natural environment in Australia and other places around the world. They also explore how the environment influences the human characteristics of places. Students examine ways people influence the characteristics of places, including the management of spaces. Students explore the impact bushfires have on Australian people, places and environments and propose ways people can reduce the impact of bushfires in the future.",
+        "content_areas": [
+        {
+            "name": "Factors that change environments",
+            "investigations": [
+            {
+                "description": "investigate the ways people change the natural environment in Australia and another country",
+                "ac": ["ACHGK026","ACHGK027"],
+                "examples": [
+                    "examination of how people, including Aboriginal and Torres Strait Islander Peoples, have influenced each country’s environmental characteristics eg land clearing"
+                ]
+            }]
+        },
+        {
+            "name": "Environments shape places",
+            "investigations": [
+            {
+                "description": "investigate how the natural environment influences people and places",
+                "ac": ["ACHGK028"],
+                "examples": [
+                    "discussion of how climate influences the distribution of where people live",
+                    "comparison of how landforms influence where and how people live in Australia and another country"
+                ]
+            }]
+        },
+        {
+            "name": "Bushfire hazard",
+            "investigations": [
+            {
+                "description": "investigate the impact of ONE contemporary bushfire hazard in Australia",
+                "ac": ["ACHGK030"],
+                "examples": [
+                    "identification of the location and extent of the disaster",
+                    "description of the impact of the disaster on natural vegetation and the damage caused to communities",
+                    "examination of how people can prevent and minimise the effects of a bushfire"
+                ]
+            }]
+        },
+        {
+            "name": "Humans shape places",
+            "investigations": [
+            {
+                "description": "investigate how people influence places",
+                "ac": ["ACHGK029"],
+                "examples": [
+                    "description of who organises and manages places eg local and state governments",
+                    "identification of ways people influence places and contribute to sustainability eg roads and services, building development applications, local sustainability initiatives",                    
+                    "examination of a local planning issue; the different views about it and a possible action in response to it"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "A diverse and connected world",
+        "outcomes": [
+        {
+            "description": "describes the diverse features and characteristics of places and environments",
+            "id": "GE3-1"
+        },
+        {
+            "description": "explains interactions and connections between people, places and environments",
+            "id": "GE3-2"
+        },
+        {
+            "description": "acquires, processes and communicates geographical information using geographical tools for inquiry",
+            "id": "GE3-4"
+        }],
+        "inquiry_questions": [
+            "How do places, people and cultures differ across the world?",
+            "What are Australia’s global connections?",
+            "How do people’s connections to places affect their perception of them?"
+        ],
+        "focus": "Students explore countries of the Asia region and the connections Australia has with other countries across the world. Students learn about the diversity of the world’s people, including the indigenous peoples of other countries. Students will explore and reflect upon similarities, differences and the importance of intercultural understanding.",
+        "content_areas": [
+        {
+            "name": "Diversity across Asia",
+            "investigations": [
+            {
+                "description": "investigate the diversity in geographical characteristics within the Asia region",
+                "ac": ["ACHGK031","ACHGK032"],
+                "examples": [
+                    "identification of countries of the Asia region in relation to Australia",
+                    "examination of economic, demographic and social differences between countries of the Asia region eg employment, population, lifestyle"
+                ]
+            }]
+        },
+        {
+            "name": "The world’s cultural diversity",
+            "investigations": [
+            {
+                "description": "investigate the world’s cultural diversity, including the culture of indigenous peoples",
+                "ac": ["ACHGK033"],
+                "examples": [
+                    "identification of different cultural groups, including indigenous cultural groups eg Maori, Inuit, Sami, Dayak",
+                    "examination of various cultures eg customs, beliefs, social organisation"
+                ]
+            }]
+        },
+        {
+            "name": "Global connections",
+            "investigations": [
+            {
+                "description": "investigate connections between Australia and other countries of the world",
+                "ac": ["ACHGK034","ACHGK035"],
+                "examples": [
+                    "description of connections Australia has with other countries eg trade, migration, tourism, aid",
+                    "examination of a significant event and its local, regional and global effect on people and places eg sporting or cultural event"
+                ]
+            }]
+        },
+        {
+            "name": "Connections shape perceptions",
+            "investigations": [
+            {
+                "description": "investigate how connections influence people’s perception and understanding of places",
+                "ac": ["ACHGK036"],
+                "examples": [
+                    "identification of factors that influence people’s perceptions of places eg media, culture, education, travel",
+                    "discussion of the effect of generalisations and stereotypes about places"
+                ]
+            }]
+        }]
+    }]
+}

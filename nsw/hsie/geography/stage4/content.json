@@ -1,0 +1,445 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "4",
+    "yrLvls": [7, 8],
+    "courses": [
+    {
+        "name": "Landscapes and landforms",
+        "outcomes": [
+        {
+            "description": "locates and describes the diverse features and characteristics of a range of places and environments",
+            "id": "GE4-1"
+        },
+        {
+            "description": "describes processes and influences that form and transform places and environments",
+            "id": "GE4-2"
+        },
+        {
+            "description": "examines perspectives of people and organisations on a range of geographical issues",
+            "id": "GE4-4"
+        },
+        {
+            "description": "discusses management of places and environments for their sustainability",
+            "id": "GE4-5"
+        },
+        {
+            "description": "acquires and processes geographical information by selecting and using geographical tools for inquiry",
+            "id": "GE4-7"
+        },
+        {
+            "description": "communicates geographical information using a variety of strategies",
+            "id": "GE4-8"
+        }],
+        "lifeskills_outcomes":[
+            "GELS-1",
+            "GELS-2",
+            "GELS-4",
+            "GELS-5",
+            "GELS-7",
+            "GELS-8"
+        ],
+        "inquiry_questions": [
+            "Why is there a diversity of landscapes and landforms on Earth? ",
+            "What environmental and human processes form and transform landscapes and landforms?",
+            "Why do people value landscapes and landforms?",            
+            "To what extent are landscapes and landforms sustainably managed and protected?"
+        ],
+        "focus": "Students explore landscapes and landforms using examples from Australia and throughout the world. They explain processes that create landscapes and shape individual landforms and they describe the value of landscapes and landforms to different people. Students examine issues of landscape degradation and ways to manage and protect landscapes and landforms. Students also investigate a natural hazard associated with landscapes and people’s responses to that hazard.",
+        "content_areas": [
+        {
+            "name": "Landscapes and landforms",
+            "investigations": [
+            {
+                "description": "investigate different landscape and the geomorphic processes that create distinctive landforms",
+                "ac": ["ACHGK048","ACHGK050"],
+                "examples": [
+                    "identification of a variety of landscapes and landforms",
+                    "explanation of geomorphic processes that create landforms eg weathering, erosion, deposition, tectonic activity",
+                    "examination of ONE landscape and its distinctive landforms"
+                ]
+            }]
+        },
+        {
+            "name": "Value of landscapes and landforms",
+            "investigations": [
+            {
+                "description": "investigate the aesthetic, cultural, spiritual and economic value of landscapes and landforms for people, including Aboriginal and Torres Strait Islander Peoples",
+                "ac": ["ACHGK049"],
+                "examples": [
+                    "explanation of the aesthetic value of landscapes and landforms to culture and identity",
+                    "description of the cultural and spiritual value of landscapes or landforms in different places",
+                    "identification of how a landscape can have economic value for different people"
+                ]
+            }]
+        },
+        {
+            "name": "Changing landscapes",
+            "investigations": [
+            {
+                "description": "investigate the human causes and effects of land degradation",
+                "ac": ["ACHGK051"],
+                "examples": [
+                    "identification of the ways people utilise and change landscapes",
+                    "description of the impact of a range of human activities on landscapes",
+                    "examination of ONE type of landscape degradation including its spatial distribution, causes and impact"
+                ]
+            }]
+        },
+        {
+            "name": "Landscape management and protection",
+            "investigations": [
+            {
+                "description": "investigate ways people, including Aboriginal and Torres Strait Islander Peoples, manage and protect landscapes",
+                "ac": ["ACHGK052"],
+                "examples": [
+                    "description of the nature and extent of landscape protection across a range of scales eg locally protected places, national parks, world heritage listing",
+                    "examination of management and protection strategies for ONE landscape",
+                    "assessment of the contribution of Aboriginal and Torres Strait Islander Peoples’ knowledge to the use and management of an Australian landscape or landform"
+                ]
+            }]
+        },
+        {
+            "name": "Geomorphic hazard",
+            "investigations": [
+            {
+                "description": "investigate ONE contemporary geomorphic hazard including causes, impacts and responses",
+                "ac": ["ACHGK053"],
+                "examples": [
+                    "description of the spatial distribution of the disaster",
+                    "explanation of geomorphic processes causing the disaster and its impacts",
+                    "examination of the responses of individuals, groups and government to the impact of the disaster",
+                    "discussion of management strategies to reduce the future impact of similar natural hazard events including the role of technology in monitoring and predicting geomorphic hazards"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Place and liveability",
+        "outcomes": [
+        {
+            "description": "locates and describes the diverse features and characteristics of a range of places and environments",
+            "id": "GE4-1"
+        },
+        {
+            "description": "explains how interactions and connections between people, places and environments result in change",
+            "id": "GE4-3"
+        },
+        {
+            "description": "examines perspectives of people and organisations on a range of geographical issues",
+            "id": "GE4-4"
+        },
+        {
+            "description": "explains differences in human wellbeing",
+            "id": "GE4-6"
+        },
+        {
+            "description": "acquires and processes geographical information by selecting and using geographical tools for inquiry",
+            "id": "GE4-7"
+        },
+        {
+            "description": "communicates geographical information using a variety of strategies",
+            "id": "GE4-8"
+        }],
+        "lifeskills_outcomes":[
+            "GELS-1",
+            "GELS-3",
+            "GELS-4",
+            "GELS-6",
+            "GELS-7",
+            "GELS-8"
+        ],        
+        "inquiry_questions": [
+            "Why do people’s perceptions of the liveability of places vary?",
+            "What effect does environmental quality and access to services have on people’s wellbeing?",
+            "How can strong community identity and social connectedness enhance the liveability of places?",
+            "What approaches can be used to improve the liveability of places?"
+        ],
+        "focus": "Students discuss factors that influence people’s perceptions of the liveability of places. They investigate features and characteristics of places across a range of scales that support and enhance people’s wellbeing such as community identity, environmental quality and access to services and facilities. Students assess the liveability of places and propose strategies to enhance the liveability of a place in Australia.",
+        "content_areas": [
+        {
+            "name": "Influences and perceptions",
+            "investigations": [
+            {
+                "description": "investigate factors influencing perceptions of the liveability of places",
+                "ac": ["ACHGK043","ACHGK046","ACHGK065"],
+                "examples": [
+                    "examination of environmental factors that influence perceptions of liveability eg climate, landforms, natural resources",
+                    "discussion of human factors that influence perceptions of liveability eg culture, income, employment, crime and safety",
+                    "explanation of ways used to measure, assess or rank the liveability of places eg surveys, liveability index",
+                    "development of personal liveability criteria and application to a local place"
+                ]
+            }]
+        },
+        {
+            "name": "Access to services and facilities",
+            "investigations": [
+            {
+                "description": "investigate the influence of accessibility to services and facilities on the liveability of places",
+                "ac": ["ACHGK044"],
+                "examples": [
+                    "identification of services and facilities considered important to people’s wellbeing",
+                    "examination of variations in access to services and facilities between urban, rural and remote places",
+                    "explanation of how limited access to services and facilities affects the liveability of ONE place for different groups of people eg young people, people with disabilities, the aged, rural and remote communities"
+                ]
+            }]
+        },
+        {
+            "name": "Environmental quality",
+            "investigations": [
+            {
+                "description": "investigate the impact of environmental quality on the liveability of places",
+                "ac": ["ACHGK045"],
+                "examples": [
+                    "discussion of factors that reduce environmental quality eg natural hazard, conflict, population pressures, land degradation",
+                    "comparison of the impact of environmental quality on the liveability of places across a range of scales eg local neighbourhoods, large cities, countries"
+                ]
+            }]
+        },
+        {
+            "name": "Community",
+            "investigations": [
+            {
+                "description": "investigate the influence of social connectedness and community identity on the liveability of places",
+                "ac": ["ACHGK046"],
+                "examples": [
+                    "identification of the characteristics of places that influence community identity eg culture, environment, public events, religious beliefs",
+                    "discussion of factors that enhance social connectedness eg transport, technology, open spaces, meeting places, employment"
+                ]
+            }]
+        },
+        {
+            "name": "Enhancing liveability",
+            "investigations": [
+            {
+                "description": "investigate strategies used to enhance the liveability of places using examples from different countries",
+                "ac": ["ACHGK047"],
+                "examples": [
+                    "identification of the characteristics of places considered highly liveable",
+                    "examination of a range of strategies used to enhance liveability",
+                    "assessment of the role of governments, non-government organisations, communities and individuals in enhancing liveability",
+                    "proposal of strategies to improve the liveability of a place in Australia"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Water in the world",
+        "outcomes": [
+        {
+            "description": "locates and describes the diverse features and characteristics of a range of places and environments",
+            "id": "GE4-1"
+        },
+        {
+            "description": "describes processes and influences that form and transform places and environments",
+            "id": "GE4-2"
+        },
+        {
+            "description": "explains how interactions and connections between people, places and environments result in change",
+            "id": "GE4-3"
+        },
+        {
+            "description": "discusses management of places and environments for their sustainability",
+            "id": "GE4-5"
+        },
+        {
+            "description": "acquires and processes geographical information by selecting and using geographical tools for inquiry",
+            "id": "GE4-7"
+        },
+        {
+            "description": "communicates geographical information using a variety of strategies",
+            "id": "GE4-8"
+        }],
+        "lifeskills_outcomes":[
+            "GELS-1",
+            "GELS-2",
+            "GELS-3",
+            "GELS-5",
+            "GELS-7",
+            "GELS-8"
+        ],        
+        "inquiry_questions": [
+            "Why does the spatial distribution of water resources vary globally and within countries?",
+            "How do natural and human processes influence the distribution and availability of water as a resource?",
+            "What effect does the uneven distribution of water resources have on people, places and environments?",
+            "What approaches can be used to sustainably manage water resources and reduce water scarcity?"
+        ],
+        "focus": "Students examine water as a resource and the factors influencing water flows and availability of water resources in different places. They investigate the nature of water scarcity and assess ways of overcoming it. Students discuss variations in people’s perceptions about the value of water and the need for sustainable water management. Students also investigate processes that continue to shape the environment including an atmospheric or hydrologic hazard.",
+        "content_areas": [
+        {
+            "name": "Water resources",
+            "investigations": [
+            {
+                "description": "investigate the characteristics and spatial distribution of global water resources",
+                "ac": ["ACHGK037"],
+                "examples": [
+                    "classification of water resources",
+                    "identification of different forms of water used as resources",
+                    "examination of spatial distribution patterns of water resources"
+                ]
+            }]
+        },
+        {
+            "name": "The water cycle",
+            "investigations": [
+            {
+                "description": "investigate how the operation of the water cycle connects people and places",
+                "ac": ["ACHGK038"],
+                "examples": [
+                    "identification of water cycle processes",
+                    "explanation of water flows within a catchment area",
+                    "examination of factors influencing water flows and the availability of water resources in different places eg latitude, altitude, topography, location, climate change"
+                ]
+            }]
+        },
+        {
+            "name": "Australia’s water resources",
+            "investigations": [
+            {
+                "description": "investigate the quantity and variability of water resources in Australia and other places",
+                "ac": ["ACHGK039"],
+                "examples": [
+                    "analysis of spatial variations in Australia’s water resources eg groundwater, rivers",
+                    "explanation of variations in freshwater water availability across Australia eg precipitation, groundwater, runoff",
+                    "assessment of variations in freshwater water availability between continents"
+                ]
+            }]
+        },
+        {
+            "name": "Water scarcity and water management",
+            "investigations": [
+            {
+                "description": "investigate the nature of water scarcity and ways of overcoming it",
+                "ac": ["ACHGK040"],
+                "examples": [
+                    "description of the nature, extent and causes of water scarcity in different countries",
+                    "assessment of strategies used to overcome water scarcity and the role of governments, non-government organisations, individuals and communities in sustainable water management",
+                    "proposal of individual actions contributing to water management"
+                ]
+            }]
+        },
+        {
+            "name": "Natural hazard",
+            "investigations": [
+            {
+                "description": "investigate ONE contemporary atmospheric hazard or hydrologic hazard including causes, impacts and responses",
+                "ac": ["ACHGK042"],
+                "examples": [
+                    "explanation of the spatial distribution, cause and impact of the disaster",
+                    "examination of responses by individuals, groups and government to the impact of the disaster",
+                    "prediction of the impact of climate change on the occurrence, frequency and extent of this type of hazard",
+                    "discussion of management strategies to reduce the future impact of similar hazard events"
+                ]
+            }]
+        },
+        {
+            "name": "The value of water",
+            "investigations": [
+            {
+                "description": "investigate the economic, cultural, spiritual and aesthetic values of water for people, including Aboriginal and Torres Strait Islander Peoples and/or peoples of the Asia region",
+                "ac": ["ACHGK041"],
+                "examples": [
+                    "description of the ways water is used by people eg agricultural, commercial, industrial and recreational uses",
+                    "discussion of variations in people’s perceptions about the value of water eg economic versus aesthetic",
+                    "comparison of the importance of water to ONE Aboriginal and Torres Strait Islander community and/or ONE Asian community"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Interconnections",
+        "outcomes": [
+        {
+            "description": "describes processes and influences that form and transform places and environments",
+            "id": "GE4-2"
+        },
+        {
+            "description": "explains how interactions and connections between people, places and environments result in change",
+            "id": "GE4-3"
+        },
+        {
+            "description": "examines perspectives of people and organisations on a range of geographical issues",
+            "id": "GE4-4"
+        },
+        {
+            "description": "discusses management of places and environments for their sustainability",
+            "id": "GE4-5"
+        },
+        {
+            "description": "acquires and processes geographical information by selecting and using geographical tools for inquiry",
+            "id": "GE4-7"
+        },
+        {
+            "description": "communicates geographical information using a variety of strategies",
+            "id": "GE4-8"
+        }],
+        "lifeskills_outcomes":[
+            "GELS-2",
+            "GELS-3",
+            "GELS-4",
+            "GELS-5",
+            "GELS-7",
+            "GELS-8"
+        ],        
+        "inquiry_questions": [
+            "How are people and places connected to other places?",
+            "What role does technology play in connecting people to people, goods, services and information in other places?",
+            "What are the consequences of a globally connected world for people and places?",
+            "Why are interconnections important for the future of places and environments?"
+        ],
+        "focus": "Students focus on the connections people have to places across a range of scales. They examine what shapes people’s perceptions of places and how this influences their connections to places. Students explore how transport, information and communication technologies and trade link people to many places. They explain the effects of human activities, such as production, recreation and travel, on places and environments in Australia and across the world and investigate sustainability initiatives and possible futures for these places.",
+        "content_areas": [
+        {
+            "name": "Personal connections",
+            "investigations": [
+            {
+                "description": "investigate the influences on and effects of, people’s travel and recreational, cultural or leisure connections with different places for the future",
+                "ac": ["ACHGK065","ACHGK069"],
+                "examples": [
+                    "analysis of patterns and trends in people’s travel, recreational, cultural and/or leisure activities",
+                    "examination of the impact of people’s travel, recreational, cultural and/or leisure activities on the future of places",
+                    "explanation of the impacts of a selected travel, recreational, cultural or leisure activity on a place, implications for the future of that place and strategies to achieve sustainability"
+                ]
+            }]
+        },
+        {
+            "name": "Technology",
+            "investigations": [
+            {
+                "description": "investigate the way transportation and information and communication technologies are used to connect people to services, information and people in other places",
+                "ac": ["ACHGK066"],
+                "examples": [
+                    "explanation of how transport technologies connect people to places",
+                    "examination of how information and communication technologies increases people’s connections to services, information and people in other places",
+                    "assessment of the impact of increasing global connectivity on people and places"
+                ]
+            }]
+        },
+        {
+            "name": "Trade",
+            "investigations": [
+            {
+                "description": "investigate the ways places and people are interconnected through trade in goods and services across a range of scales",
+                "ac": ["ACHGK067"],
+                "examples": [
+                    "identification of trade connections in Australia eg local farmers markets, inter-state business",
+                    "examination of a country’s trade links with other countries eg major trade partners, sources of raw materials",
+                    "analysis of spatial patterns of global trade eg countries of production and consumption, global shipping and freight routes"
+                ]
+            }]
+        },
+        {
+            "name": "Production and consumption",
+            "investigations": [
+            {
+                "description": "investigate the effects of the production and consumption of goods on people, places and environments throughout the world",
+                "ac": ["ACHGK068"],
+                "examples": [
+                    "examination of environmental, social and economic impacts of production and consumption of consumer goods",
+                    "assessment of the effect of production or consumption of goods on ONE place or environment",
+                    "explanation of responses by governments, groups and individuals to minimise the effects of production and consumption"
+                ]
+            }]
+        }]
+    }]
+}

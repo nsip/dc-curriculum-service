@@ -1,0 +1,114 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "2",
+    "yrLvls": [3, 4],
+    "overview": [
+        "In considering the intended learning, teachers will make decisions about the sequence, the emphasis to be given to particular areas of content, and any adjustments required based on the needs, interests and abilities of their students. Content including knowledge and understanding, concepts, skills and tools should be integrated to provide meaningful learning experiences for students.",
+        "Where appropriate, students are to be provided with opportunities to investigate a wide range of places and environments from local to global scales."
+    ],
+    "concepts": [
+    {
+        "name": "Place",
+        "description": "the significance of places and what they are like eg natural and human features and characteristics of different places and their similarities and differences; how people’s perceptions about places influence their responses and actions to protect them."
+    },
+    {
+        "name": "Space",
+        "description": "the significance of location and spatial distribution, and ways people organise and manage spaces that we live in eg settlement patterns within Australia, neighbouring countries and other countries."
+    },
+    {
+        "name": "Environment",
+        "description": "the significance of the environment in human life, and the important interrelationships between humans and the environment eg how climate and environment influence settlement patterns; interconnections between people and environments; differing ways people can use environments sustainably."
+    },
+    {
+        "name": "Interconnection",
+        "description": "no object of geographical study can be viewed in isolation eg interconnections between people, places and environments; influence of people’s values on the management and protection of places and environments and the custodial responsibilities of Aboriginal and Torres Strait Islander Peoples."
+    },
+    {
+        "name": "Scale",
+        "description": "the way that geographical phenomena and problems can be examined at different spatial levels eg types of settlement across a range of scales; the influence of climate across a range of scales."
+    },
+    {
+        "name": "Sustainability",
+        "description": "the capacity of the environment to continue to support our lives and the lives of other living creatures into the future eg ways in which people, including Aboriginal and Torres Strait Islander Peoples, use and protect natural resources; differing views about environmental sustainability; sustainable management of waste."
+    }],
+    "inquiry_skills": [
+    {
+        "name": "Acquiring geographical information",
+        "skills": [
+        {
+            "skill": "develop geographical questions to investigate",
+            "ac": ["ACHGS019", "ACHGS026"]
+        },
+        {
+            "skill": "collect and record relevant geographical data and information, for example, by observing, by interviewing, conducting surveys, or using maps, visual representations, the media or the internet",
+            "ac": ["ACHGS020", "ACHGS027"]
+        }]
+    },
+    {
+        "name": "Processing geographical information",
+        "skills": [
+        {
+            "skill": "represent data by constructing tables, graphs and maps",
+            "ac": ["ACHGS021", "ACHGS028"]
+        },
+        {
+            "skill": "represent information by constructing large-scale maps that conform to cartographic conventions, using spatial technologies as appropriate",
+            "ac": ["ACHGS022", "ACHGS029"]
+        },
+        {
+            "skill": "interpret geographical data to identify distributions and patterns and draw conclusions",
+            "ac": ["ACHGS023", "ACHGS030"]
+        }]
+    },
+    {
+        "name": "Communicating geographical information",
+        "skills": [
+        {
+            "skill": "present findings in a range of communication forms, for example, written, oral, digital, graphic, tabular and visual, and use geographical terminology",
+            "ac": ["ACHGS024", "ACHGS031"]
+        },
+        {
+            "skill": "reflect on their learning to propose individual action in response to a contemporary geographical challenge and identify the expected effects of the proposal",
+            "ac": ["ACHGS025", "ACHGS032"]
+        }]
+    }],
+    "tools": [
+    {
+        "name": "Maps",
+        "examples": [
+            "large-scale maps, world map, globe, sketch maps",
+            "maps to identify location, direction, distance, map references, spatial distributions and patterns"
+        ],
+        "code": "M"
+    },
+    {
+        "name": "Fieldwork",
+        "examples": [
+            "observing, measuring, collecting and recording data, conducting surveys or interviews",
+            "fieldwork instruments such as measuring devices, maps, photographs"
+        ],
+        "code": "F"
+    },
+    {
+        "name": "Graphs and statistics",
+        "examples": [
+            "tally charts, pictographs, data tables, column graphs, simple statistics"
+        ],
+        "code": "GS"
+    },
+    {
+        "name": "Spatial technologies",
+        "examples": [
+            "virtual maps, satellite images, global positioning systems (GPS)"
+        ],
+        "code": "ST"
+    },
+    {
+        "name": "Visual representations",
+        "examples": [
+            "photographs, illustrations, diagrams, story books, multimedia, web tools"
+        ],
+        "code": "VR"
+    }]
+}

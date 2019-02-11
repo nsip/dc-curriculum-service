@@ -1,0 +1,46 @@
+# overview.gql
+
+## common elements for the whole stage syllabus
+type overview {
+	## broad learning area of this syllabus
+    learning_area: String
+    ## the actual subject of the syllabus
+    subject: String
+    ## the learning stage for the syllabus
+    stage: String
+    ## the year levels covered by the syllabus
+    yrLvls: [Int]
+    ## textual description of the syllabus
+    overview: [String]
+    ## key concepts to be covered in the syllabus
+    concepts: [concept]
+    ## key inquiry skills for students
+    inquiry_skills: [inquiry_skill]
+    ## tools students will use in the syllabus
+    tools: [tool]
+}
+
+## core concepts students will be expected to understand
+type concept {
+	name: String
+	description: String
+}
+
+## skills students will be expected to demonstrate
+type inquiry_skill {
+	name: String
+	skills: [skill]
+}
+
+## details of a particluar required skill with links to Australian Curriculum references
+type skill {
+	skill: String
+	ac: [String]
+}
+
+## tools students are expected to use and master within the syllabus
+type tool {
+	name: String
+	examples: [String]
+	code: String
+}

@@ -1,0 +1,418 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "5",
+    "yrLvls": [9, 10],
+    "courses": [
+    {
+        "name": "Sustainable Biomes",
+        "outcomes": [
+        {
+            "description": "explains the diverse features and characteristics of a range of places and environments",
+            "id": "GE5-1"
+        },
+        {
+            "description": "explains processes and influences that form and transform places and environments",
+            "id": "GE5-2"
+        },
+        {
+            "description": "analyses the effect of interactions and connections between people, places and environments",
+            "id": "GE5-3"
+        },
+        {
+            "description": "assesses management strategies for places and environments for their sustainability",
+            "id": "GE5-5"
+        },
+        {
+            "description": "acquires and processes geographical information by selecting and using appropriate and relevant geographical tools for inquiry",
+            "id": "GE5-7"
+        },
+        {
+            "description": "communicates geographical information to a range of audiences using a variety of strategies",
+            "id": "GE5-8"
+        }],
+        "lifeskills_outcomes":[
+            "GELS-1",
+            "GELS-2",
+            "GELS-3",
+            "GELS-5",
+            "GELS-7",
+            "GELS-8"
+        ],
+        "inquiry_questions": [
+            "What are the main characteristics that differentiate the world’s biomes?",
+            "How do people use and alter biomes for food production?",
+            "Can the world’s biomes sustainably feed the world’s population?",
+            "What strategies can be used to increase global food security?"
+        ],
+        "focus": "Students examine the physical characteristics and productivity of biomes. Students examine the correlation between the world’s climatic zones and spatial distributions of biomes and their capacity to support food and non-food agricultural production. Students analyse the impact humans have on biomes in an effort to produce food and increase agricultural yields. They examine population trends and projections from Australia and across the world and forecast future food supply-and-demand issues. Challenges to food production are explored and management strategies investigated.",
+        "content_areas": [
+        {
+            "name": "Biomes",
+            "investigations": [
+            {
+                "description": "investigate the distribution and physical characteristics of biomes",
+                "ac": ["ACHGK060"],
+                "examples": [
+                    "examination of the spatial distribution of biomes",
+                    "identification of biomes used to produce food, industrial materials and fibres",
+                    "explanation of the impact of the climate, soils and vegetation of a biome on its productivity"
+                ]
+            }]
+        },
+        {
+            "name": "Changing biomes",
+            "investigations": [
+            {
+                "description": "investigate the human alteration of biomes to produce food, industrial materials and fibres and the environmental effects of these alterations",
+                "ac": ["ACHGK061"],
+                "examples": [
+                    "examination of human alterations to the physical characteristics of biomes eg vegetation removal, agriculture, land terracing, irrigation, mining",
+                    "assessment of environmental impacts of human alterations to biomes eg habitat and biodiversity loss, water pollution, salinity",
+                    "discussion of successful sustainability strategies that minimise environmental impacts"
+                ]
+            }]
+        },
+        {
+            "name": "Biomes produce food",
+            "investigations": [
+            {
+                "description": "investigate environmental, economic and technological factors that influence agricultural yields in Australia and across the world",
+                "ac": ["ACHGK062"],
+                "examples": [
+                    "examination of how environmental factors influence agricultural yields eg temperature, water availability, soil, topography",
+                    "discussion of economic factors affecting agricultural yields eg global trade, commercialisation of agriculture",
+                    "explanation of how technology is used to increase agricultural yields eg innovations and advancements in farming practices"
+                ]
+            }]
+        },
+        {
+            "name": "Challenges to food production",
+            "investigations": [
+            {
+                "description": "investigate environmental challenges to food production for Australia and other areas of the world",
+                "ac": ["ACHGK063"],
+                "examples": [
+                    "description of the impact of water scarcity and pollution on food production",
+                    "discussion of the impact of land degradation and competing land uses on food production eg urban expansion, biofuel production",
+                    "assessment of the extent to which climate change can affect the capacity of countries to increase food production"
+                ]
+            }]
+        },
+        {
+            "name": "Food security",
+            "investigations": [
+            {
+                "description": "investigate the capacity of the world’s biomes to achieve sustainable food security for Australia and the world",
+                "ac": ["ACHGK064"],
+                "examples": [
+                    "assessment of the capacity of biomes to produce food into the future",
+                    "analysis of population projections to predict future demand for food",
+                    "examination of sustainable practices used to achieve food security",
+                    "discussion of the potential for Australia to contribute to global food security"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Changing Places",
+        "outcomes": [
+        {
+            "description": "explains processes and influences that form and transform places and environments",
+            "id": "GE5-2"
+        },
+        {
+            "description": "analyses the effect of interactions and connections between people, places and environments",
+            "id": "GE5-3"
+        },
+        {
+            "description": "assesses management strategies for places and environments for their sustainability",
+            "id": "GE5-5"
+        },
+        {
+            "description": "acquires and processes geographical information by selecting and using appropriate and relevant geographical tools for inquiry",
+            "id": "GE5-7"
+        },
+        {
+            "description": "communicates geographical information to a range of audiences using a variety of strategies",
+            "id": "GE5-8"
+        }],
+        "lifeskills_outcomes":[
+            "GELS-2",
+            "GELS-3",
+            "GELS-5",
+            "GELS-7",
+            "GELS-8"
+        ],
+        "inquiry_questions": [
+            "Why has the world become more urbanised?",
+            "How does migration impact on the concentration of people into urban places?",
+            "How does urbanisation change environments and places?",
+            "What strategies are used to manage environmental change in urban places to enhance sustainability?"
+        ],
+        "focus": "Students examine the patterns and trends in population movements and the increasing urbanisation of countries. They discuss the reasons for internal and international migration patterns and the consequences of population movements, including the increased concentration of populations within countries. Students examine strategies to create liveable and sustainable urban places, propose solutions and suggest opportunities for active citizenship.",
+        "content_areas": [
+        {
+            "name": "Causes and consequences of urbanisation",
+            "investigations": [
+            {
+                "description": "investigate the causes and consequences of urbanisation with reference to ONE Asian country",
+                "ac": ["ACHGK054"],
+                "examples": [
+                    "identification of spatial distribution patterns",
+                    "description of the causes of urbanisation",
+                    "examination of economic, social or environmental consequences of urbanisation"
+                ]
+            }]
+        },
+        {
+            "name": "Urban settlement patterns",
+            "investigations": [
+            {
+                "description": "investigate differences in urban settlement patterns between Australia and another country",
+                "ac": ["ACHGK055"],
+                "examples": [
+                    "examination of urban settlements to determine patterns of concentration",
+                    "explanation of factors influencing urban concentration eg climate and topography, transportation networks, land use or perceptions of liveability",
+                    "assessment of the consequences of urban concentrations on the characteristics, liveability and sustainability of places"
+                ]
+            }]
+        },
+        {
+            "name": "Internal migration",
+            "investigations": [
+            {
+                "description": "investigate reasons for and effects of internal migration in Australia and another country",
+                "ac": ["ACHGK056","ACHGK057"],
+                "examples": [
+                    "analysis of trends in temporary and permanent internal migration",
+                    "discussion of economic, social or environmental consequences of internal migration on places of origin and destination"
+                ]
+            }]
+        },
+        {
+            "name": "International migration",
+            "investigations": [
+            {
+                "description": "investigate the reasons for and effects of international migration to Australia",
+                "ac": ["ACHGK058"],
+                "examples": [
+                    "analysis of international migration patterns",
+                    "explanation of where and why international migrants settle within Australia",
+                    "examination of characteristics and spatial patterns of Australia’s cultural diversity"
+                ]
+            }]
+        },
+        {
+            "name": "Australia’s urban future",
+            "investigations": [
+            {
+                "description": "investigate the management and planning of Australia’s urban future",
+                "ac": ["ACHGK059"],
+                "examples": [
+                    "description of Australia’s projected population growth",
+                    "discussion of the implication of population forecasts for the future growth and sustainability of urban places",
+                    "explanation of strategies used to create economically, socially and environmentally sustainable urban places",
+                    "proposal of ways for individuals and communities to contribute to a sustainable urban future"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Environmental change and management",
+        "outcomes": [
+        {
+            "description": "explains processes and influences that form and transform places and environments",
+            "id": "GE5-2"
+        },
+        {
+            "description": "analyses the effect of interactions and connections between people, places and environments",
+            "id": "GE5-3"
+        },
+        {
+            "description": "accounts for perspectives of people and organisations on a range of geographical issues",
+            "id": "GE5-4"
+        },
+        {
+            "description": "assesses management strategies for places and environments for their sustainability",
+            "id": "GE5-5"
+        },
+        {
+            "description": "acquires and processes geographical information by selecting and using appropriate and relevant geographical tools for inquiry",
+            "id": "GE5-7"
+        },
+        {
+            "description": "communicates geographical information to a range of audiences using a variety of strategies",
+            "id": "GE5-8"
+        }],
+        "lifeskills_outcomes":[
+            "GELS-2",
+            "GELS-3",
+            "GELS-4",
+            "GELS-5",
+            "GELS-7",
+            "GELS-8"
+        ],
+        "inquiry_questions": [
+            "How do environments function?",
+            "How do people’s worldviews affect their attitudes to and use of environments?",
+            "What are the causes and consequences of change in environments and how can this change be managed?",
+            "Why is an understanding of environmental processes and interconnections essential for sustainable management of environments?"
+        ],
+        "focus": "Students develop an understanding of the functioning of environments and the scale of human-induced environmental change challenging sustainability. They explore worldviews influencing approaches to environmental use and management. Students undertake an investigative study of the causes and consequences of environmental change in an environment in Australia and another country. They compare and evaluate the management responses in both countries and propose ways individuals can contribute to environmental sustainability.",
+        "content_areas": [
+        {
+            "name": "Environments",
+            "investigations": [
+            {
+                "description": "investigate the role and importance of natural environments",
+                "ac": [""],
+                "examples": [
+                    "identification of the function of natural environments in supporting life eg maintaining biodiversity"
+                ]
+            }]
+        },
+        {
+            "name": "Environmental change",
+            "investigations": [
+            {
+                "description": "investigate human-induced environmental changes across a range of scales",
+                "ac": ["ACHGK070"],
+                "examples": [
+                    "brief examination of types, and extent, of environmental change"
+                ]
+            }]
+        },
+        {
+            "name": "Environmental management",
+            "investigations": [
+            {
+                "description": "investigate environmental management, including different worldviews and the management approaches of Aboriginal and Torres Strait Islander Peoples",
+                "ac": ["ACHGK071","ACHGK072"],
+                "examples": [
+                    "discussion of varying environmental management approaches and perspectives"
+                ]
+            }]
+        },
+        {
+            "name": "Investigative study",
+            "instructions":["Select ONE type of environment in Australia as the context for a comparative study with at least ONE other country."],
+            "investigations": [
+            {
+                "description": "investigate the biophysical processes essential to the functioning of the selected environment",
+                "ac": [""],
+                "examples": [
+                    "explanation of how the biophysical processes operating in the environment maintain its functioning"
+                ]
+            },
+            {
+                "description": "investigate the causes, extent and consequences of the environmental change",
+                "ac": ["ACHGK073"],
+                "examples": [
+                    "examination of the causes and extent of change to the environment in each country",
+                    "analysis of the short and long-term consequences of the environmental change in each country"
+                ]
+            },
+            {
+                "description": "investigate the management of the environmental change",
+                "ac": ["ACHGK074", "ACHGK075"],
+                "examples": [
+                    "discussion of the factors influencing the management responses in each country eg worldviews, competing demands, technology, climate change",
+                    "comparison and evaluation of the effectiveness of the management responses in achieving environmental sustainability",
+                    "proposal of how individuals could contribute to achieving environmental sustainability for the environment in each country"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Human wellbeing",
+        "outcomes": [
+        {
+            "description": "explains the diverse features and characteristics of a range of places and environments",
+            "id": "GE5-1"
+        },
+        {
+            "description": "explains processes and influences that form and transform places and environments",
+            "id": "GE5-2"
+        },
+        {
+            "description": "analyses differences in human wellbeing and ways to improve human wellbeing",
+            "id": "GE5-6"
+        },
+        {
+            "description": "acquires and processes geographical information by selecting and using appropriate and relevant geographical tools for inquiry",
+            "id": "GE5-7"
+        },
+        {
+            "description": "communicates geographical information to a range of audiences using a variety of strategies",
+            "id": "GE5-8"
+        }],
+        "inquiry_questions": [
+            "What makes human wellbeing a geographical issue?",
+            "How can the spatial variations in human wellbeing and development be measured and explained? ",
+            "What are the economic, social and environmental impacts of variations in development and human wellbeing?",
+            "How do governments, groups and individuals respond to inequalities in development and human wellbeing for a sustainable future?"
+        ],
+        "lifeskills_outcomes":[
+            "GELS-1",
+            "GELS-2",
+            "GELS-6",
+            "GELS-7",
+            "GELS-8"
+        ],        
+        "focus": "Students examine the nature of, and differences in, human wellbeing and development that exist within and between countries. They describe ways of measuring human wellbeing and development to reveal spatial variations and develop explanations for differences. Students investigate examples from Australia and across the world of issues affecting development, the impact on human wellbeing and the consequences of spatial variations across scales. Local, national and global initiatives to improve human wellbeing are also examined.",
+        "content_areas": [
+        {
+            "name": "Human wellbeing and development",
+            "investigations": [
+            {
+                "description": "investigate ways of measuring and mapping human wellbeing and development",
+                "ac": ["ACHGK076"],
+                "examples": [
+                    "examination of global indicators and benchmarks for human wellbeing",
+                    "description of ways of measuring and mapping human wellbeing and development for the purpose of identifying and analysing spatial variations",
+                    "analysis of contemporary trends in human wellbeing and development"
+                ]
+            }]
+        },
+        {
+            "name": "Spatial variations in human wellbeing",
+            "investigations": [
+            {
+                "description": "investigate causes, issues and consequences of spatial variations in human wellbeing",
+                "ac": ["ACHGK077","ACHGK078","ACHGK079"],
+                "examples": [
+                    "description of spatial variations in human wellbeing and development between and within countries using selected indicators",
+                    "examination of reasons for and consequences of spatial variations in human wellbeing and development",
+                    "discussion of issues affecting the development of places and their impact on human wellbeing in ONE country or region"
+                ]
+            }]
+        },
+        {
+            "name": "Human wellbeing in Australia",
+            "investigations": [
+            {
+                "description": "investigate the reasons for and consequences of spatial variations in human wellbeing in Australia",
+                "ac": ["ACHGK080"],
+                "examples": [
+                    "identification of differences in human wellbeing in Australia using a range of indicators",
+                    "examination of reasons for and consequences of differences in human wellbeing for TWO groups of people in Australia eg cultural groups, unemployed, the aged, young people, people with disabilities",
+                    "analysis of how human wellbeing is influenced by where people live in Australia"
+                ]
+            }]
+        },
+        {
+            "name": "Improving human wellbeing",
+            "investigations": [
+            {
+                "description": "investigate initiatives to improve human wellbeing in Australia and other countries",
+                "ac": ["ACHGK081"],
+                "examples": [
+                    "evaluation of initiatives by governments and non-government organisations to reduce spatial variations in human wellbeing",
+                    "discussion of the role individuals play in improving human wellbeing",
+                    "proposal for action by governments, organisations or individuals to improve the wellbeing of ONE group in Australia"
+                ]
+            }]
+        }]
+    }]
+}

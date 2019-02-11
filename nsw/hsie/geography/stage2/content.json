@@ -1,0 +1,172 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "2",
+    "yrLvls": [3, 4],
+    "courses": [
+    {
+        "name": "Places are similar and different",
+        "outcomes": [
+        {
+            "description": "examines features and characteristics of places and environments",
+            "id": "GE2-1"
+        },
+        {
+            "description": "describes the ways people, places and environments interact",
+            "id": "GE2-2"
+        },
+        {
+            "description": "examines differing perceptions about the management of places and environments",
+            "id": "GE2-3"
+        },
+        {
+            "description": "acquires and communicates geographical information using geographical tools for inquiry",
+            "id": "GE2-4"
+        }],
+        "inquiry_questions": [
+            "How and why are places similar and different?",
+            "What would it be like to live in a neighbouring country?",
+            "How do people’s perceptions about places influence their views about the protection of places?"
+        ],
+        "focus": "Students examine natural and human features of Australia and the diverse characteristics of Australia’s neighbouring countries. They explore the different climates, settlement patterns and demographic characteristics of places and use this information to imagine what it would be like to live in different places. Students consider how people’s perceptions of places are the basis for actions to protect places and environments.",
+        "content_areas": [
+        {
+            "name": "The Australian continent",
+            "investigations": [
+            {
+                "description": "investigate Australia’s major natural and human features",
+                "ac": ["ACHGK014", "ACHGK015"],
+                "examples": [
+                    "description of natural features of Australia eg deserts, rivers, mountains",
+                    "location of Australia’s states, territories and major cities",
+                    "identification of Countries/Places of Aboriginal and Torres Strait Islander Peoples"
+                ]
+            }]
+        },
+        {
+            "name": "Australia’s neighbours",
+            "investigations": [
+            {
+                "description": "investigate Australia’s neighbouring countries and their diverse characteristics",
+                "ac": ["ACHGK016"],
+                "examples": [
+                    "location of Australia’s neighbouring countries",
+                    "examination of the natural and human features of neighbouring countries",
+                    "comparison of the natural and human features of a city in Australia with a city in a neighbouring country"
+                ]
+            }]
+        },
+        {
+            "name": "Climate of places",
+            "investigations": [
+            {
+                "description": "investigate the climates of different places",
+                "ac": ["ACHGK017"],
+                "examples": [
+                    "discussion of how weather contributes to climate",
+                    "comparison of climates in different places"
+                ]
+            }]
+        },
+        {
+            "name": "Similarities and differences between places",
+            "investigations": [
+            {
+                "description": "investigate the settlement patterns and demographic characteristics of places and the lives of the people who live there",
+                "ac": ["ACHGK019"],
+                "examples": [
+                    "examination of the varying settlement patterns and demographics of places",
+                    "comparison of the daily life of people from different places"
+                ]
+            }]
+        },
+        {
+            "name": "Perception and protection of places",
+            "investigations": [
+            {
+                "description": "investigate how the protection of places is influenced by people’s perception of places",
+                "ac": ["ACHGK018"],
+                "examples": [
+                    "description of how and why people perceive places differently",
+                    "discussion of how people’s perceptions influence the protection of places in Australia eg sacred sites, national parks, world heritage sites"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "The Earth's Environment",
+        "outcomes": [
+        {
+            "description": "examines features and characteristics of places and environments",
+            "id": "GE2-1"
+        },
+        {
+            "description": "describes the ways people, places and environments interact",
+            "id": "GE2-2"
+        },
+        {
+            "description": "examines differing perceptions about the management of places and environments",
+            "id": "GE2-3"
+        },
+        {
+            "description": "acquires and communicates geographical information using geographical tools for inquiry",
+            "id": "GE2-4"
+        }],
+        "inquiry_questions": [
+            "How does the environment support the lives of people and other living things?",
+            "How do different views about the environment influence approaches to sustainability?",
+            "How can people use places and environments more sustainably?"
+        ],
+        "focus": "Students explore the climate, natural vegetation and native animals of places in Australia and Asia. They examine the importance of natural vegetation and natural resources to the environment, animals and people and learn about the ways people value environments, including Aboriginal and Torres Strait Islander Peoples. Students identify sustainable practices and recognise that there are differing views on how sustainability can be achieved.",
+        "content_areas": [
+        {
+            "name": "Different environments",
+            "investigations": [
+            {
+                "description": "investigate the natural characteristics of Australia and a country in Asia",
+                "ac": ["ACHGK020"],
+                "examples": [
+                    "comparison of climate, natural vegetation and native animals"
+                ]
+            }]
+        },
+        {
+            "name": "Significance of environments",
+            "investigations": [
+            {
+                "description": "investigate the importance of natural vegetation and natural resources to the environment, animals and people",
+                "ac": ["ACHGK021","ACHGK022","ACHGK024"],
+                "examples": [
+                    "identification of types of natural vegetation eg forests, grasslands, deserts",
+                    "explanation of the importance of natural vegetation to animals and the functioning of the environment eg provision of habitats, production of oxygen",                    
+                    "discussion of the importance of natural vegetation and natural resources to people eg provision of food, medicine, fuel, timbers, fibres, metals"
+                ]
+            }]
+        },
+        {
+            "name": "Perception of environments",
+            "investigations": [
+            {
+                "description": "investigate the ways people, including Aboriginal and Torres Strait Islander Peoples, value environments",
+                "ac": ["ACHGK022","ACHGK023","ACHGK023"],
+                "examples": [
+                    "discussion of why people value environments differently eg cultural, agricultural, commercial, recreational values",
+                    "description of how custodial responsibility for Country/Place influences Aboriginal and Torres Strait Islander Peoples’ views of the environment"
+                ]
+            }]
+        },
+        {
+            "name": "Protection of environments",
+            "investigations": [
+            {
+                "description": "investigate sustainable practices that protect environments, including those of Aboriginal and Torres Strait Islander Peoples",
+                "ac": ["ACHGK023", "ACHGK024", "ACHGK025"],
+                "examples": [
+                    "examination of how environments can be used sustainably eg sustainable agricultural, commercial and recreational practices",
+                    "discussion of ways waste can be managed sustainably",                    
+                    "examination of how the practices of Aboriginal and Torres Strait Islander Peoples support the sustainable use of environments eg use of resources"
+                ]
+            }]
+        }]
+    }]
+}

@@ -1,0 +1,120 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "5",
+    "yrLvls": [9, 10],
+    "overview": [
+        "In considering the intended learning, teachers will make decisions about the sequence, the emphasis to be given to particular areas of content, and any adjustments required based on the needs, interests and abilities of their students. Content including knowledge and understanding, concepts, skills and tools should be integrated to provide meaningful learning experiences for students. All students must undertake fieldwork in Stage 5.",
+        "Where appropriate, students are to be provided with opportunities to investigate a wide range of places and environments from local to global scales."
+    ],
+    "concepts": [
+    {
+        "name": "Place",
+        "description": "the significance of places and what they are like eg the effect of local and global geographical processes such as urbanisation, migration and climate change on tangible places such as a country as well as less tangible places such as a community."
+    },
+    {
+        "name": "Environment",
+        "description": "the significance of the environment in human life, and the important interrelationships between humans and the environment eg the function and importance of the environment; the quality of the environment; significant environmental challenges; approaches to environmental management."
+    },
+    {
+        "name": "Interconnection",
+        "description": "no object of geographical study can be viewed in isolation eg consequences of migration patterns on the location of origin and destination; the economic, social and environmental factors influencing spatial variations in global human wellbeing."
+    },
+    {
+        "name": "Scale",
+        "description": "the way that geographical phenomena and problems can be examined at different spatial levels eg interactions between geographical processes at different scales; local alterations to environments can have global consequences; changes at a global level can impact local environments; management and protection of places and environments at local, regional, national and global scales."
+    },
+    {
+        "name": "Sustainability",
+        "description": "the capacity of the environment to continue to support our lives and the lives of other living creatures into the future eg short and long-term implications of environmental change on environments; the importance of sustainable practices to ensure the wellbeing of people; sustainable environmental worldviews and management approaches."
+    },
+    {
+        "name": "Change",
+        "description": "explaining geographical phenomena by investigating how they have developed over time eg biomes altered to produce food, industrial materials and fibres and the environmental effects of these alterations; the consequences of urbanisation; the protection of places and environments as a result of sustainable management practices."
+    }],
+    "inquiry_skills": [
+    {
+        "name": "Acquiring geographical information",
+        "skills": [
+        {
+            "skill": "develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts",
+            "ac": ["ACHGS063", "ACHGS072"]
+        },
+        {
+            "skill": "collect, select, record and organise relevant data and geographical information, using ethical protocols, from a variety of appropriate primary data and secondary information sources",
+            "ac": ["ACHGS064", "ACHGS073"]
+        }]
+    },
+    {
+        "name": "Processing geographical information",
+        "skills": [
+        {
+            "skill": "evaluate information sources for their reliability, bias and usefulness",
+            "ac": ["ACHGS065", "ACHGS074"]
+        },
+        {
+            "skill": "represent multi-variable data in a range of appropriate forms, with and without the use of digital and spatial technologies",
+            "ac": ["ACHGS065", "ACHGS074"]
+        },
+        {
+            "skill": "represent the spatial distribution of geographical phenomena on maps that conform to cartographic conventions, using spatial technologies as appropriate",
+            "ac": ["ACHGS066", "ACHGS075"]
+        },
+        {
+            "skill": "evaluate multi-variable data and other geographical information using qualitative and quantitative methods and digital and spatial technologies as appropriate to make generalisations and inferences, propose explanations for patterns, trends, relationships and anomalies, and predict outcomes",
+            "ac": ["ACHGS067", "ACHGS076"]
+        },
+        {
+            "skill": "apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative perspectives",
+            "ac": ["ACHGS068", "ACHGS077"]
+        },
+        {
+            "skill": "identify how geographical information systems (GIS) might be used to analyse geographical data and make predictions",
+            "ac": ["ACHGS069", "ACHGS078"]
+        }]
+    },
+    {
+        "name": "Communicating geographical information",
+        "skills": [
+        {
+            "skill": "present findings, arguments and explanations in a range of appropriate communication forms selected for their effectiveness and to suit audience and purpose, using relevant geographical terminology and digital technologies as appropriate",
+            "ac": ["ACHGS070", "ACHGS079"]
+        },
+        {
+            "skill": "reflect on and evaluate the findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic and social considerations; and explain the predicted outcomes and consequences of their proposal",
+            "ac": ["ACHGS071", "ACHGS080"]
+        }]
+    }],
+    "tools": [
+    {
+        "name": "Maps",
+        "examples": [
+            "relief maps, political maps, topographic maps, choropleth maps, flowline maps, cadastral maps, thematic maps, isoline maps, land use maps, précis maps, special-purpose maps, cartograms, synoptic charts",
+            "maps to identify direction, scale and distance, area and grid references, degrees and minutes of latitude and longitude, bearings, aspect, altitude, area, density, contour lines, gradient, local relief"
+        ],
+        "code": "M"
+    },
+    {
+        "name": "Fieldwork",
+        "examples": [
+            "observing, measuring, collecting and recording data, developing and conducting surveys and interviews",
+            "fieldwork instruments such as weather instruments, vegetation identification charts, compasses, clinometers, GPS, GIS or remote sensing"
+        ],
+        "code": "F"
+    },
+    {
+        "name": "Graphs and statistics",
+        "examples": ["data tables, pie graphs, column graphs, compound column graphs, line graphs, scatter graphs, climate graphs, population profiles, multiple tables and graphs presented on a geographical theme, statistics to find patterns and trends, and to account for change"],
+        "code": "GS"
+    },
+    {
+        "name": "Spatial technologies",
+        "examples": ["virtual maps, satellite images, global positioning systems (GPS), geographic information systems (GIS), remote sensing data, augmented reality"],
+        "code": "ST"
+    },
+    {
+        "name": "Visual representations",
+        "examples": ["photographs, aerial photographs, illustrations, flow charts, annotated diagrams, multimedia, field and photo sketches, cartoons, mind maps, web tools"],
+        "code": "VR"
+    }]
+}

@@ -1,0 +1,135 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "1",
+    "yrLvls": [1, 2],
+    "courses": [
+    {
+        "name": "Features Of Places",
+        "outcomes": [
+        {
+            "description": "describes features of places and the connections people have with places",
+            "id": "GE1-1"
+        },
+        {
+            "description": "identifies ways in which people interact with and care for places",
+            "id": "GE1-2"
+        },
+        {
+            "description": "communicates geographical information and uses geographical tools for inquiry",
+            "id": "GE1-3"
+        }],
+        "inquiry_questions": [
+            "What are the features of, and activities in, places?",
+            "How can we care for places?",
+            "How can spaces within a place be used for different purposes?"
+        ],
+        "focus": "Students investigate the natural and human features of places. They describe the reasons places change and identify the active role of citizens in the care of places. They learn about how people describe the weather and seasons of places. Students explore activities occurring in places and how the spaces within places can be used for different purposes.",
+        "content_areas": [
+        {
+            "name": "Features of places",
+            "investigations": [
+            {
+                "description": "investigate features of places and how they can be cared for",
+                "ac": ["ACHGK005"],
+                "examples": [
+                    "description of the natural and human features of places",
+                    "discussion of the natural features of places identified in Aboriginal Dreaming stories and/or Legends of the Torres Strait",
+                    "consideration of how a place can be cared for eg a park, farm, beach, bushland"
+                ]
+            }]
+        },
+        {
+            "name": "Weather and seasons",
+            "investigations": [
+            {
+                "description": "investigate the weather and seasons of places",
+                "ac": ["ACHGK006"],
+                "examples": [
+                    "description of the daily and seasonal weather patterns of a familiar place",
+                    "comparison of the daily and seasonal weather patterns of places",
+                    "examination of how different cultural groups , including Aboriginal or Torres Strait Islander Peoples, describe weather, seasons or seasonal calendars",
+                    "discussion of how weather can affect places and activities eg leisure, farming"
+                ]
+            }]
+        },
+        {
+            "name": "How places are organised",
+            "investigations": [
+            {
+                "description": "investigate activities that occur within places",
+                "ac": ["ACHGK007", "ACHGK008"],
+                "examples": [
+                    "discussion of why and how the spaces within places can be rearranged for different purposes eg street fair, school hall",
+                    "examination of why various activities in an area are located where they are eg school, shops"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "People and Places",
+        "outcomes": [
+        {
+            "description": "describes features of places and the connections people have with places",
+            "id": "GE1-1"
+        },
+        {
+            "description": "communicates geographical information and uses geographical tools for inquiry",
+            "id": "GE1-3"
+        }],
+        "inquiry_questions": [
+            "Where are places located in Australia?",
+            "How are people connected to places?",
+            "What factors affect people’s connections to places?"
+        ],
+        "focus": "Students explore places across a range of scales within Australia and Australia’s location in the world. They describe connections people, including Aboriginal and Torres Strait Islander Peoples, have with places, both locally and globally. Students identify factors affecting people’s accessibility to places.",
+        "content_areas": [
+        {
+            "name": "Australian places",
+            "investigations": [
+            {
+                "description": "investigate places across a range of scales within Australia",
+                "ac": ["ACHGK010"],
+                "examples": [
+                    "identification that places exist across a range of scales eg personal, local, national"
+                ]
+            }]
+        },
+        {
+            "name": "Australia's Location",
+            "investigations": [
+            {
+                "description": "investigate Australia’s location in the world",
+                "ac": ["ACHGK009"],
+                "examples": [
+                    "description of Australia’s location in relation to the world eg continents, oceans"
+                ]
+            }]
+        },
+        {
+            "name": "People's connection to places",
+            "investigations": [
+            {
+                "description": "investigate people’s connections and access to places",
+                "ac": ["ACHGK013"],
+                "examples": [
+                    "discussion of why people visit other places",
+                    "identification of factors influencing people’s accessibility to places eg distance",
+                    "examination of how technology has improved people’s access to places"
+                ]
+            }]
+        },
+        {
+            "name": "Local and global connections",
+            "investigations": [
+            {
+                "description": "investigate connections that people, including Aboriginal and Torres Strait Islander Peoples, have to local and global places",
+                "ac": ["ACHGK010","ACHGK011","ACHGK012"],
+                "examples": [
+                    "discussion of Aboriginal and Torres Strait Islander Peoples’ connections with land, sea and animals of their place",
+                    "description of reasons people are connected to places in Australia and/or countries across the world eg birthplace"
+                ]
+            }]
+        }]
+    }]
+}

@@ -1,0 +1,124 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "3",
+    "yrLvls": [5, 6],
+    "overview": [
+        "In considering the intended learning, teachers will make decisions about the sequence, the emphasis to be given to particular areas of content, and any adjustments required based on the needs, interests and abilities of their students. Content including knowledge and understanding, concepts, skills and tools should be integrated to provide meaningful learning experiences for students.",
+        "Where appropriate, students are to be provided with opportunities to investigate a wide range of places and environments from local to global scales."
+    ],
+    "concepts": [
+    {
+        "name": "Place",
+        "description": "the significance of places and what they are like eg characteristics of places on a global level."
+    },
+    {
+        "name": "Space",
+        "description": "the significance of location and spatial distribution, and ways people organise and manage spaces that we live in eg global patterns of spatial distribution; how people organise and manage spaces in their local environment."
+    },
+    {
+        "name": "Environment",
+        "description": "the significance of the environment in human life, and the important interrelationships between humans and the environment eg how the environment influences people and places; how people influence the environment; the effect of natural disasters on the environment."
+    },
+    {
+        "name": "Interconnection",
+        "description": "no object of geographical study can be viewed in isolation eg how environments influence where people live; ways people influence the characteristics of their environments; diversity of cultures and peoples around the world."
+    },
+    {
+        "name": "Scale",
+        "description": "the way that geographical phenomena and problems can be examined at different spatial levels eg environmental and human characteristics of places on local, regional and global scales; the effect of global events on people and places locally, regionally and globally."
+    },
+    {
+        "name": "Sustainability",
+        "description": "the capacity of the environment to continue to support our lives and the lives of other living creatures into the future eg extent of environmental change; environmental management practices; sustainability initiatives."
+    },
+    {
+        "name": "Change",
+        "description": "explaining geographical phenomena by investigating how they have developed over time eg changes to environmental and human characteristics of places."
+    }],
+    "inquiry_skills": [
+    {
+        "name": "Acquiring geographical information",
+        "skills": [
+        {
+            "skill": "develop geographical questions to investigate and plan an inquiry",
+            "ac": ["ACHGS033", "ACHGS040"]
+        },
+        {
+            "skill": "collect and record relevant geographical data and information, using ethical protocols, from primary data and secondary information sources, for example, by observing, by interviewing, conducting surveys, or using maps, visual representations, statistical sources and reports, the media or the internet",
+            "ac": ["ACHGS034", "ACHGS041"]
+        }]
+    },
+    {
+        "name": "Processing geographical information",
+        "skills": [
+        {
+            "skill": "evaluate sources for their usefulness",
+            "ac": ["ACHGS035", "ACHGS042"]
+        },
+        {
+            "skill": "represent data in different forms, for example plans, graphs, tables, sketches and diagrams",
+            "ac": ["ACHGS035", "ACHGS042"]
+        },
+        {
+            "skill": "represent different types of geographical information by constructing maps that conform to cartographic conventions using spatial technologies as appropriate",
+            "ac": ["ACHGS036", "ACHGS043"]
+        },
+        {
+            "skill": "interpret geographical data and information, using digital and spatial technologies as appropriate, and identify spatial distributions, patterns and trends, and infer relationships to draw conclusions",
+            "ac": ["ACHGS037", "ACHGS044"]
+        }]
+    },
+    {
+        "name": "Communicating geographical information",
+        "skills": [
+        {
+            "skill": "present findings and ideas in a range of communication forms as appropriate",
+            "ac": ["ACHGS038", "ACHGS045"]
+        },
+        {
+            "skill": "reflect on their learning to propose individual and collective action in response to a contemporary geographical challenge and describe the expected effects of their proposal on different groups of people",
+            "ac": ["ACHGS039", "ACHGS046"]
+        }]
+    }],
+    "tools": [
+    {
+        "name": "Maps",
+        "examples": [
+            "large-scale maps, small-scale maps, sketch maps, political maps, topographic maps, flowline maps",
+            "maps to identify location, latitude, direction, distance, map references, spatial distributions and patterns"
+        ],
+        "code": "M"
+    },
+    {
+        "name": "Fieldwork",
+        "examples": [
+            "observing, measuring, collecting and recording data, conducting surveys and interviews",
+            "fieldwork instruments such as measuring devices, maps, photographs, compasses, GPS"
+        ],
+        "code": "F"
+    },
+    {
+        "name": "Graphs and statistics",
+        "examples": [
+            "pictographs, data tables, column graphs, line graphs, climate graphs",
+            "multiple graphs on a geographical theme",
+            "statistics to find patterns"
+        ],
+        "code": "GS"
+    },
+    {
+        "name": "Spatial technologies",
+        "examples": [
+            "virtual maps, satellite images, global positioning systems (GPS)"
+        ],
+        "code": "ST"
+    },
+    {
+        "name": "Visual representations",
+        "examples": [
+            "photographs, aerial photographs, illustrations, flow diagrams, annotated diagrams, multimedia, web tools"
+        ],
+        "code": "VR"
+    }]
+}

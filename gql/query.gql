@@ -1,0 +1,12 @@
+# query.gql
+
+## syllabus is the root query object and contains all details
+## of the syllabus within  a
+## state: the syllabus owner e.g. "nsw"
+## learning_area: broad learning area e.g. "hsie"
+## subject: the actual subject of the syllabus e.g. "geography"
+## stage: the learning stage e.g. "1" stage 1 for yr levels 1 & 2 students
+type syllabus {
+	overview(state: String!, learning_area: String!, subject: String!, stage: String!): overview
+	content(state: String!, learning_area: String!, subject: String!, stage: String!): content
+}

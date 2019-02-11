@@ -1,0 +1,94 @@
+{
+    "learning_area": "HSIE",
+    "subject": "Geography",
+    "stage": "1",
+    "yrLvls": [1, 2],
+    "overview": [
+        "In considering the intended learning, teachers will make decisions about the sequence, the emphasis to be given to particular areas of content, and any adjustments required based on the needs, interests and abilities of their students. Content including knowledge and understanding, concepts, skills and tools should be integrated to provide meaningful learning experiences for students.",
+        "Where appropriate, students are to be provided with opportunities to investigate a wide range of places and environments from local to global scales."
+    ],
+    "concepts": [
+    {
+        "name": "Place",
+        "description": "the significance of places and what they are like eg location and features of local places and other places in the world"
+    },
+    {
+        "name": "Space",
+        "description": "the significance of location and spatial distribution, and ways people organise and manage the spaces that we live in eg where activities are located and how spaces can be organised."
+    },
+    {
+        "name": "Environment",
+        "description": "the significance of the environment in human life, and the important interrelationships between humans and the environment eg natural and human features of a place; daily and seasonal weather patterns of places."
+    },
+    {
+        "name": "Interconnection",
+        "description": "no object of geographical study can be viewed in isolation eg local and global links people have with places and the special connection Aboriginal and Torres Strait Islander Peoples maintain with Country/Place."
+    },
+    {
+        "name": "Scale",
+        "description": "the way that geographical phenomena and problems can be examined at different spatial levels eg various scales by which places can be defined such as local suburbs, towns and large cities."
+    }],
+    "inquiry_skills": [
+    {
+        "name": "Acquiring geographical information",
+        "skills": [
+        {
+            "skill": "pose geographical questions",
+            "ac": ["ACHGS007", "ACHGS013"]
+        },
+        {
+            "skill": "collect and record geographical data and information, for example, by observing, by interviewing, or using visual representations",
+            "ac": ["ACHGS008", "ACHGS014"]
+        }]
+    },
+    {
+        "name": "Processing geographical information",
+        "skills": [
+        {
+            "skill": "represent data by constructing tables, graphs or maps ",
+            "ac": ["ACHGS009", "ACHGS015"]
+        },
+        {
+            "skill": "draw conclusions based on the interpretation of geographical information sorted into categories",
+            "ac": ["ACHGS010", "ACHGS016"]
+        }]
+    },
+    {
+        "name": "Communicating geographical information",
+        "skills": [
+        {
+            "skill": "present findings in a range of communication forms",
+            "ac": ["ACHGS011", "ACHGS017"]
+        },
+        {
+            "skill": "reflect on their learning and suggest responses to their findings",
+            "ac": ["ACHGS012", "ACHGS018"]
+        }]
+    }],
+    "tools": [
+    {
+        "name": "Maps",
+        "examples": ["pictorial maps, large-scale maps, world map, globe"],
+        "code": "M"
+    },
+    {
+        "name": "Fieldwork",
+        "examples": ["observing, collecting and recording data, conducting surveys"],
+        "code": "F"
+    },
+    {
+        "name": "Graphs and statistics",
+        "examples": ["tally charts, pictographs, data tables, column graphs, weather data"],
+        "code": "GS"
+    },
+    {
+        "name": "Spatial technologies",
+        "examples": ["virtual maps, satellite images"],
+        "code": "ST"
+    },
+    {
+        "name": "Visual representations",
+        "examples": ["photographs, illustrations, diagrams, story books, multimedia, web tools"],
+        "code": "VR"
+    }]
+}
