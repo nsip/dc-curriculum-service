@@ -1,2 +1,4 @@
 
 dc-curriculum-service
+*.zip
+tools/release
