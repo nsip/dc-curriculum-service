@@ -1,0 +1,108 @@
+{
+    "learning_area": "hsie",
+    "subject": "history",
+    "stage": "2",
+    "yrLvls": [3, 4],
+    "overview": [
+        "Knowledge and understanding, concepts and skills are interrelated and should be taught in an integrated way to provide meaningful learning experiences for students. By engaging with the following, students will have the opportunity to engage with historical content, concepts and skills.",
+        "Community and remembrance - This topic provides a study of identity and diversity in both a local and broader context. Moving from the heritage of their local area, students explore the historical features and diversity of their community. They examine local, state and national symbols and emblems of significance, and celebrations and commemorations, both locally and in other places around the world.",
+        "First contacts - This topic introduces world history and the movements of peoples. Beginning with the history of Aboriginal and Torres Strait Islander peoples, students examine European exploration and colonisation in Australia and throughout the world up to the early 1800s. Students examine the impact of exploration on other societies, how these societies interacted with newcomers, and how these experiences contributed to their cultural diversity."
+    ],
+    "concepts": [
+    {
+        "name": "Continuity and change",
+        "description": "some things change over time and others remain the same, eg aspects in the local community that have either changed or remained the same; changes to the lives of Aboriginal peoples with the arrival of the First Fleet."
+    },
+    {
+        "name": "Cause and effect",
+        "description": "events, decisions or developments in the past that produce later actions, results or effects, eg how conditions and decisions in Britain resulted in the journey of the First Fleet; causes of change in the local area/state."
+    },
+    {
+        "name": "Perspectives",
+        "description": "people from the past will have different views and experiences, eg views on the arrival of the British in Australia from a British and an Aboriginal point of view."
+    },
+    {
+        "name": "Empathetic understanding",
+        "description": "developing an understanding of another's views, life and decisions made, eg developing an understanding of the life and attitudes of an early colonist or convict."
+    },
+    {
+        "name": "Significance",
+        "description": "importance of an event, development or individual/group, eg the significance/importance of national days/holidays; the significance of the contributions of an early settler."
+    }],
+    "inquiry_skills": [
+    {
+        "name": "Comprehension: chronology, terms and concepts",
+        "skills": [
+        {
+            "skill": "respond, read and write, to show understanding of historical matters",
+            "ac": [""]
+        },
+        {
+            "skill": "sequence familiar people and events",
+            "ac": ["ACHHS065", "ACHHS081"]
+        },
+        {
+            "skill": "use historical terms",
+            "ac": ["ACHHS066", "ACHHS082"]
+        }]
+    },
+    {
+        "name": "Analysis and use of sources",
+        "skills": [
+        {
+            "skill": "locate relevant information from sources provided",
+            "ac": [
+                "ACHHS068", 
+                "ACHHS084",
+                "ACHHS215",
+                "ACHHS216"
+            ]
+        }]
+    },
+    {
+        "name": "Perspectives and interpretations",
+        "skills": [
+        {
+            "skill": "identify different points of view within an historical context",
+            "ac": ["ACHHS069", "ACHHS085"]
+        }]
+    },
+    {
+        "name": "Empathetic understanding",
+        "skills": [
+        {
+            "skill": "explain how and why people in the past may have lived and behaved differently from today",
+            "ac": [""]
+        }]
+    },
+    {
+        "name": "Research",
+        "skills": [
+        {
+            "skill": "pose a range of questions about the past",
+            "ac": ["ACHHS067", "ACHHS083"]
+        },
+        {
+            "skill": "plan an historical inquiry",
+            "ac": [""]
+        }]
+    },
+    {
+        "name": "Explanation and communication",
+        "skills": [
+        {
+            "skill": "develop texts, particularly narratives",
+            "ac": ["ACHHS070", "ACHHS086"]
+        },
+        {
+            "skill": "use a range of communication forms (oral, graphic, written) and digital technologies",
+            "ac": ["ACHHS071", "ACHHS087"]
+        }]
+    }],
+    "tools": [
+    {
+        "name": "no tools specified",
+        "examples": [""],
+        "code": ""
+    }]
+}

@@ -1,0 +1,103 @@
+{
+    "learning_area": "hsie",
+    "subject": "history",
+    "stage": "1",
+    "yrLvls": [1, 2],
+    "overview": [
+        "Knowledge and understanding, concepts and skills are interrelated and should be taught in an integrated way to provide meaningful learning experiences for students. By studying the following, students will have the opportunity to engage with historical content, concepts and skills",
+        "Present and past family life - This topic provides a study of present and past family life within the context of the students' own world. Students learn about similarities and differences in family life by comparing the present with the past. They begin to explore the links, and the changes that occur, over time and are introduced to the use of historical sources.",
+        "The past in the present - This topic provides a study of local history. Students explore, recognise and appreciate the history of their local area by examining remains of the past and considering why they should be preserved"
+    ],
+    "concepts": [
+    {
+        "name": "Continuity and change",
+        "description": "some things change over time and others remain the same, eg changes and similarities in family life over time; aspects in the local community that have changed or remained the same."
+    },
+    {
+        "name": "Cause and effect",
+        "description": "events, decisions or developments in the past that produce later actions, results or effects, eg how everyday life has changed over time; how changing technologies affected peoples' lives over time."
+    },
+    {
+        "name": "Perspectives",
+        "description": "people from the past will have different views shaped by their experiences, eg different points of view about a significant person or site in the local area."
+    },
+    {
+        "name": "Empathetic understanding",
+        "description": "developing an understanding of another's views, life and decisions made, eg how people lived in the past in the local community and decisions they made."
+    },
+    {
+        "name": "Significance",
+        "description": "importance of an event, development or individual/group, eg the importance/significance of a local person or site and a personal or family event that has significance."
+    }],
+    "inquiry_skills": [
+    {
+        "name": "Comprehension: chronology, terms and concepts",
+        "skills": [
+        {
+            "skill": "discuss and recount stories of family and local history",
+            "ac": [""]
+        },
+        {
+            "skill": "sequence familiar objects and events",
+            "ac": ["ACHHS031", "ACHHS047"]
+        },
+        {
+            "skill": "distinguish between the past, present and future",
+            "ac": ["ACHHS032", "ACHHS048"]
+        }]
+    },
+    {
+        "name": "Use of sources",
+        "skills": [
+        {
+            "skill": "explore and use a range of sources about the past",
+            "ac": ["ACHHS034", "ACHHS050"]
+        },
+        {
+            "skill": "identify and compare features of objects from the past and present",
+            "ac": ["ACHHS035", "ACHHS051"]
+        }]
+    },
+    {
+        "name": "Perspectives",
+        "skills": [
+        {
+            "skill": "explore a point of view within an historical context",
+            "ac": ["ACHHS036", "ACHHS052"]
+        }]
+    },
+    {
+        "name": "Empathetic understanding",
+        "skills": [
+        {
+            "skill": "recognise that people in the local community may have lived differently in the past",
+            "ac": [""]
+        }]
+    },
+    {
+        "name": "Research",
+        "skills": [
+        {
+            "skill": "pose questions about the past using sources provided",
+            "ac": ["ACHHS033", "ACHHS049"]
+        }]
+    },
+    {
+        "name": "Explanation and communication",
+        "skills": [
+        {
+            "skill": "develop a narrative about the past",
+            "ac": ["ACHHS037", "ACHHS053"]
+        },
+        {
+            "skill": "use a range of communication forms (oral, graphic, written, role play) and digital technologies",
+            "ac": ["ACHHS038", "ACHHS054"]
+        }]
+    }],
+    "tools": [
+    {
+        "name": "no tools identified",
+        "examples": [""],
+        "code": ""
+    }]
+}

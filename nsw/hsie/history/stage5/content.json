@@ -1,0 +1,911 @@
+{
+    "learning_area": "hsie",
+    "subject": "history",
+    "stage": "5",
+    "yrLvls": [9, 10],
+    "courses": [
+    {
+        "name": "The Making Of The Modern World - Overview",
+        "outcomes": [
+        {
+            "description": "Students briefly outline the nature and significance of the Industrial Revolution and how it affected living and working conditions, including within Australia",
+            "id": ""
+        },
+        {
+            "description": "Students briefly outline the nature and extent of the movement of peoples in the period (slaves, convicts and settlers)",
+            "id": ""
+        },
+        {
+            "description": "Students briefly outline the extent of European imperial expansion and different responses, including in the Asian region",
+            "id": ""
+        },
+        {
+            "description": "Students briefly outline the emergence and nature of significant economic, social and political ideas in the period, including nationalism",
+            "id": ""
+        },
+        {
+            "description": "Students briefly outline the inter-war years between World War I and World War II, including the Treaty of Versailles, the Roaring Twenties and the Great-Depression",
+            "id": ""
+        }],
+        "lifeskills_outcomes":[""],
+        "inquiry_questions": [
+            "What were the changing features of the movement of peoples from 1750 to 1918?",
+            "How did new ideas and technological developments contribute to change in this period?",
+            "What was the origin, development, significance and long-term impact of imperialism in this period?",
+            "What was the significance of World Wars I and II?"
+        ],
+        "focus": "(50 Hours Minimum Teaching Time) The overview is approximately 10% of the teaching time for The Making of the Modern World. The overview may be taught separately or may be integrated with the depth studies",
+        "content_areas": [
+        {
+            "name": "Overview",
+            "investigations": [
+            {
+                "description": "The Industrial Revolution, developing first in eighteenth-century Britain, gave rise to economic changes that have had an enormous impact on society. An obvious result was urbanisation, but the Industrial Revolution also contributed to other population movements such as the slave trade, emigration and convict transportation. The Industrial Revolution also encouraged European nationalism and imperialism. While the Industrial Revolution created wealth for some and support for capitalism, it also created a new class of urban workers who were forced to endure poor living and working conditions. The resulting social discontent created support for new political ideas such as socialism. At the end of this period, a buildup of tensions among Europe's great powers contributed to the outbreak of World War I, the first global war",
+                "ac": [""],
+                "examples": [
+                    ""
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Depth Study 1 - Making A Better World?",
+        "outcomes": [
+        {
+            "description": "explains and assesses the historical forces and factors that shaped the modern world and Australia",
+            "id": "HT5-1"
+        },
+        {
+            "description": "sequences and explains the significant patterns of continuity and change in the development of the modern world and Australia",
+            "id": "HT5-2"
+        },
+        {
+            "description": "explains and analyses the causes and effects of events and developments in the modern world and Australia",
+            "id": "HT5-4"
+        },
+        {
+            "description": "uses relevant evidence from sources to support historical narratives, explanations and analyses of the modern world and Australia",
+            "id": "HT5-6"
+        },
+        {
+            "description": "applies a range of relevant historical terms and concepts when communicating an understanding of the past",
+            "id": "HT5-9"
+        },
+        {
+            "description": "selects and uses appropriate oral, written, visual and digital forms to communicate effectively about the past for different audiences",
+            "id": "HT5-10"
+        }],
+        "lifeskills_outcomes":[
+            "HTLS-3",
+            "HTLS-4",
+            "HTLS-6",
+            "HTLS-8",
+            "HTLS-11",
+            "HTLS-12",
+            "HTLS-13"
+        ],
+        "inquiry_questions": [
+            "What were the changing features of the movement of peoples from 1750 to 1918?",
+            "How did new ideas and technological developments contribute to change in this period?",
+            "What was the origin, development, significance and long-term impact of imperialism in this period?",
+            "What was the significance of World Wars I and II?"
+        ],
+        "focus": "Students investigate in depth how life changed in the period through the study of ONE of these major developments: 1a The Industrial Revolution OR 1b Movement of peoples OR 1c Progressive ideas and movements",
+        "content_areas": [
+        {
+            "name": "Site Study",
+            "investigations": [
+            {
+                "description": "Site Study",
+                "ac": [""],
+                "examples": [
+                    "a museum visit",
+                    "a local site of significance",
+                    "a heritage site",
+                    "an historical reconstruction site",
+                    "a virtual historical site",
+                    "a virtual archaeological site"
+                ]
+            }]
+        },
+        {
+            "name": "Topic 1a: The Industrial Revolution (1750–1914)",
+            "investigations": [
+            {
+                "description": "The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (the agricultural revolution, access to raw materials, wealthy middle class, cheap labour, transport system and expanding empire) and of Australia",
+                "ac": ["ACDSEH017"],
+                "examples": [
+                    "outline the main reasons why the Industrial Revolution began in Britain",
+                    "describe key features of the agricultural revolution in Britain, including the emergence of a cheap labour force",
+                    "locate the growth and extent of the British Empire from 1750 to 1900",
+                    "identify the raw materials Britain obtained from its empire, eg sugar from Jamaica, wool from Australia, and cotton and tea from India",
+                    "identify key inventors and their inventions and discuss how some of these inventions affected transport and manufacturing in this period",
+                    "explain how industrialisation contributed to the development of Britain and Australia in this period"
+                ]
+            },
+            {
+                "description": "The population movements and changing settlement patterns during this period",
+                "ac": ["ACDSEH080"],
+                "examples": [
+                    "outline and explain population movements in Britain, eg movement from country villages to towns and cities, and emigration to other countries"
+                ]
+            },
+            {
+                "description": "The experiences of men, women and children during the Industrial Revolution, and their changing way of life",
+                "ac": ["ACDSEH081"],
+                "examples": [
+                    "describe the changes to the way of life of men and women who moved from the country to towns and cities",
+                    "use a variety of sources to investigate working conditions in factories, mines and other occupations, with particular emphasis on child labour"
+                ]
+            },
+            {
+                "description": "The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication",
+                "ac": ["ACDSEH082"],
+                "examples": [
+                    "discuss positive and negative consequences of the Industrial Revolution, eg the growth of cities and pollution and the development of trade unions",
+                    "assess the short-term and long-term impacts of the Industrial Revolution, including: global changes in landscapes; transport; communication"
+                ]
+            }]
+        },
+        {
+            "name": "Topic 1b: Movement of peoples (1750–1901)",
+            "investigations": [
+            {
+                "description": "The influence of the Industrial Revolution on the movement of peoples throughout the world, including the transatlantic slave trade and convict transportation",
+                "ac": ["ACDSEH018"],
+                "examples": [
+                    "outline the key features of the Industrial Revolution in Britain",
+                    "explain how the agricultural revolution caused British people to move from villages to towns and cities to create a cheap labour force",
+                    "outline how the Industrial Revolution influenced transportation of convicts to Australia and the migration of free settlers",
+                    "identify the movement of slaves out of Africa and the movement of convicts and free settlers out of Britain"
+                ]
+            },
+            {
+                "description": "The experiences of slaves, convicts and free settlers upon departure, their journey abroad, and their reactions on arrival, including the Australian experience",
+                "ac": ["ACDSEH083"],
+                "examples": [
+                    "investigate the main features of slavery, including transportation",
+                    "select an individual slave sent to the Americas, or a convict or a free settler who came to Australia and use sources to construct the story of their experiences"
+                ]
+            },
+            {
+                "description": "Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia",
+                "ac": ["ACDSEH084"],
+                "examples": [
+                    "use a variety of sources to investigate and report on the changing way of life of ONE of the following: convicts; emancipists; free settlers.",
+                    "describe the impact of convicts and free settlers on the Indigenous-peoples of the regions occupied"
+                ]
+            },
+            {
+                "description": "The short- and long-term impacts of the movement of peoples during this period",
+                "ac": ["ACDSEH085"],
+                "examples": [
+                    "describe both the immediate and longer-term consequences of transporting African slaves to the Americas",
+                    "assess the impact of convicts and free settlers on the development of the Australian nation"
+                ]
+            }]
+        },
+        {
+            "name": "Topic 1c: Progressive ideas and movements (1750–1918)",
+            "investigations": [
+            {
+                "description": "The emergence and nature of key ideas in the period, with a particular focus on ONE of the following: capitalism, socialism, egalitarianism, nationalism, imperialism, Darwinism, Chartism",
+                "ac": ["ACDSEH019"],
+                "examples": [
+                    "sequence and annotate the time span of the following: the Enlightenment, the American War of Independence, the French Revolution and the Industrial Revolution",
+                    "identify underlying ideas associated with the Enlightenment, the American War of Independence, the French Revolution and the Industrial Revolution, eg individual rights and freedoms",
+                    "briefly outline each of the following ideas: capitalism, socialism, egalitarianism, nationalism, imperialism, Darwinism, Chartism"
+                ]
+            },
+            {
+                "description": "The reasons why ONE key idea emerged and/or developed a following",
+                "ac": ["ACDSEH086"],
+                "examples": [
+                    "outline and explain the origins of the chosen key idea"
+                ]
+            },
+            {
+                "description": "The role of an individual or group in the promotion of ONE of these key ideas, and the responses to it from, for example, workers, entrepreneurs, land owners, religious groups",
+                "ac": ["ACDSEH087"],
+                "examples": [
+                    "describe the main features of the chosen idea",
+                    "identify the ideas of supporters and opponents and explain their differences",
+                    "trace changes in attitude to the idea over the period"
+                ]
+            },
+            {
+                "description": "The short and long-term impacts of ONE of these ideas on Australia and the world",
+                "ac": ["ACDSEH088"],
+                "examples": [
+                    "assess the short-term and long-term impacts of the idea on Australia and the world",
+                    "discuss the relevance of the idea today"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Depth Study 2: Australia and Asia",
+        "outcomes": [
+        {
+            "description": "explains and assesses the historical forces and factors that shaped the modern world and Australia",
+            "id": "HT5-1"
+        },
+        {
+            "description": "sequences and explains the significant patterns of continuity and change in the development of the modern world and Australia",
+            "id": "HT5-2"
+        },
+        {
+            "description": "explains and analyses the causes and effects of events and developments in the modern world and Australia",
+            "id": "HT5-4"
+        },
+        {
+            "description": "explains different contexts, perspectives and interpretations of the modern world and Australia",
+            "id": "HT5-7"
+        },
+        {
+            "description": "applies a range of relevant historical terms and concepts when communicating an understanding of the past",
+            "id": "HT5-9"
+        },
+        {
+            "description": "selects and uses appropriate oral, written, visual and digital forms to communicate effectively about the past for different audiences",
+            "id": "HT5-10"
+        }],
+        "lifeskills_outcomes":[
+            "HTLS-3",
+            "HTLS-4",
+            "HTLS-6",
+            "HTLS-9",
+            "HTLS-11",
+            "HTLS-12",
+            "HTLS-13"                                                
+        ],
+        "inquiry_questions": [
+            "What were the changing features of the movement of peoples from 1750 to 1918?",
+            "How did new ideas and technological developments contribute to change in this period?",
+            "What was the origin, development, significance and long-term impact of imperialism in this period?",
+            "What was the significance of World Wars I and II?"
+        ],
+        "focus": "Students investigate in depth ONE of the following: 2a Making a nation OR 2b Asia and the world (1750–1918)",
+        "content_areas": [
+        {
+            "name": "Site Study",
+            "investigations": [
+            {
+                "description": "Site Study",
+                "ac": [""],
+                "examples": [
+                    "a museum visit",
+                    "a local site of significance",
+                    "an Aboriginal site (issues of access and permission need to be appropriate to the site selected)",
+                    "a streetscape/heritage site",
+                    "a State Parliament House",
+                    "Old Parliament House, Canberra ACT",
+                    "Parliament House, Canberra ACT",
+                    "a virtual historical site"
+                ]
+            }]
+        },
+        {
+            "name": "Topic 2a: Making a nation",
+            "investigations": [
+            {
+                "description": "The extension of settlement, including the effects of contact (intended and unintended) between European settlers in Australia and Aboriginal and Torres Strait Islander peoples",
+                "ac": ["ACDSEH020"],
+                "examples": [
+                    "outline the expansion of European settlement on a map of Aboriginal Australia to 1900",
+                    "describe both the European impact on the landscape and how the landscape affected European settlement",
+                    "use a range of sources to describe contact experiences between European settlers and Indigenous peoples"
+                ]
+            },
+            {
+                "description": "The experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans)",
+                "ac": ["ACDSEH089"],
+                "examples": [
+                    "explain why ONE of the non-European groups came to Australia",
+                    "describe how the chosen group lived and worked in Australia",
+                    "describe the contribution of non-European workers to Australia's development to 1900"
+                ]
+            },
+            {
+                "description": "Living and working conditions in Australia around the turn of the twentieth century (that is 1900)",
+                "ac": ["ACDSEH090"],
+                "examples": [
+                    "using a range of sources, investigate the living and working conditions of men, women and children around the turn of the twentieth century in Australia"
+                ]
+            },
+            {
+                "description": "Key events and ideas in the development of Australian self-government and democracy, including women's voting rights",
+                "ac": ["ACDSEH091"],
+                "examples": [
+                    "explain how and why Federation (1901) was achieved",
+                    "outline state and federal responsibilities under the Australian Constitution",
+                    "discuss the consequences of the introduction of the Australian Constitution for the rights of women and Aboriginal people"
+                ]
+            },
+            {
+                "description": "Legislation 1901–1914, including the Harvester Judgment, pensions, and the Immigration Restriction Act",
+                "ac": ["ACDSEH092"],
+                "examples": [
+                    "identify key features of the Harvester Judgment, pensions legislation and the Immigration Restriction Act and discuss what they reveal about the kind of society the Australian government aimed to create",
+                    "assess the impact of this legislation on Australian society in this period"
+                ]
+            }]
+        },
+        {
+            "name": "Topic 2b: Asia and the world (1750–1918)",
+            "investigations": [
+            {
+                "description": "The key features (social, cultural, economic, political) of ONE Asian society (such as China, Japan, India, Dutch East Indies) at the start of the period",
+                "ac": ["ACDSEH093"],
+                "examples": [
+                    "choose ONE Asian society from around 1750 and:",
+                    " - identify key physical features and geographic extent",
+                    " - describe the structure of the society",
+                    " - explain the role of leaders",
+                    " - outline key features of the economy",
+                    " - describe main religious beliefs and cultural features",
+                    " - discuss the lives and work of men, women and children"
+                ]
+            },
+            {
+                "description": "Change and continuity in the Asian society during this period, including any effects of contact (intended and unintended) with European power(s)",
+                "ac": ["ACDSEH094"],
+                "examples": [
+                    "outline the nature of the contact of the Asian society with European power(s)",
+                    "explain how the Asian society was changed by its contact with European power(s)",
+                    "identify features of the Asian society that were unaffected by contact with Europeans"
+                ]
+            },
+            {
+                "description": "The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism",
+                "ac": ["ACDSEH142"],
+                "examples": [
+                    "discuss the positive and negative consequences of contact between the Asian society and the European powers during this period",
+                    "using a range of sources, investigate and analyse data to compare the Asian society to other nations around 1900 in relation to population, form of government, type of economy, relationships with other nations and evidence of nationalism"
+                ]
+            },
+            {
+                "description": "The significance of ONE key event that involved the chosen Asian society and European power(s), including different perspectives of the event at the time",
+                "ac": ["ACDSEH141"],
+                "examples": [
+                    "assess the significance of ONE key event involving an Asian society and a European power, using sources to identify different perspectives of the event at the time, eg:",
+                    " - India (the Indian Mutiny/the First War of Indian Independence 1857)",
+                    " - China (the Boxer Rebellion 1900)",
+                    " - Japan (the Russo-Japanese War 1904–1905)"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Depth Study 3: (CORE STUDY) Australians at War: World Wars I and II (1914-1918, 1939-1945)",
+        "outcomes": [
+        {
+            "description": "explains and assesses the historical forces and factors that shaped the modern world and Australia",
+            "id": "HT5-1"
+        },
+        {
+            "description": "sequences and explains the significant patterns of continuity and change in the development of the modern world and Australia",
+            "id": "HT5-2"
+        },
+        {
+            "description": "explains and analyses the causes and effects of events and developments in the modern world and Australia",
+            "id": "HT5-4"
+        },
+        {
+            "description": "identifies and evaluates the usefulness of sources in the historical inquiry process",
+            "id": "HT5-5"
+        },
+        {
+            "description": "explains different contexts, perspectives and interpretations of the modern world and Australia",
+            "id": "HT5-7"
+        },
+        {
+            "description": "applies a range of relevant historical terms and concepts when communicating an understanding of the past",
+            "id": "HT5-9"
+        },
+        {
+            "description": "selects and uses appropriate oral, written, visual and digital forms to communicate effectively about the past for different audiences",
+            "id": "HT5-10"
+        }],
+        "lifeskills_outcomes":[
+            "HTLS-3",
+            "HTLS-4",
+            "HTLS-6",
+            "HTLS-7",
+            "HTLS-9",
+            "HTLS-11",
+            "HTLS-12",
+            "HTLS-13"
+        ],
+        "inquiry_questions": [
+            "What were the changing features of the movement of peoples from 1750 to 1918?",
+            "How did new ideas and technological developments contribute to change in this period?",
+            "What was the origin, development, significance and long-term impact of imperialism in this period?",
+            "What was the significance of World Wars I and II?"
+        ],
+        "focus": "This study is mandatory. This topic can be taught as a broad comparative study or the two world wars can be studied separately.",
+        "content_areas": [
+        {
+            "name": "Causes of wars",
+            "investigations": [
+            {
+                "description": "An overview of the causes of the wars, why men enlisted and where Australians fought",
+                "ac": ["ACDSEH021","ACDSEH095","ACDSEH024"],
+                "examples": [
+                    "outline the main causes of both wars",
+                    "locate and sequence the places where Australians fought in both wars",
+                    "explain why Australians enlisted to fight in both wars"
+                ]
+            }]
+        },
+        {
+            "name": "Scope and nature of warfare",
+            "investigations": [
+            {
+                "description": "The scope and nature of warfare",
+                "ac": ["ACDSEH095","ACDSEH107"],
+                "examples": [
+                    "describe the nature of warfare during the Gallipoli campaign",
+                    "explain the outcome of the Gallipoli campaign",
+                    "outline and sequence the changing scope and nature of warfare from trenches in World War I to the Holocaust and the use of the atomic bombs to end World War II"
+                ]
+            }]
+        },
+        {
+            "name": "Significant events and the experiences of Australians at war",
+            "investigations": [
+            {
+                "description": "Significant events and the experiences of Australians at war",
+                "ac": ["ACDSEH108"],
+                "examples": [
+                    "using sources, students investigate the following features of each war:",
+                    "prisoners of war",
+                    "a specific campaign, eg the Western Front 1916 and the New Guinea campaign 1942",
+                    "the role of women",
+                    "participation of Aboriginal and Torres Strait Islander peoples",
+                    "a specific event/incident, eg the Battle of Hamel 1918 and the Fall of Singapore 1942"
+                ]
+            }]
+        },
+        {
+            "name": "Impact of the wars on Australia",
+            "investigations": [
+            {
+                "description": "Impact of the wars on Australia",
+                "ac": ["ACDSEH096", "ACDSEH109"],
+                "examples": [
+                    "outline the Australian governments' control on the home front in both wars for each of the following:",
+                    "conscription",
+                    "use of government propaganda",
+                    "changing roles of women",
+                    "enemy 'aliens'",
+                    "wartime controls/censorship"
+                ]
+            }]
+        },
+        {
+            "name": "Significance of the wars to Australia",
+            "investigations": [
+            {
+                "description": "Significance of the wars to Australia",
+                "ac": ["ACDSEH110"],
+                "examples": [
+                    "explain the impact of the wars on returned soldiers/civilians",
+                    "analyse the changing relationship of Australia with other countries after World War II"
+                ]
+            }]
+        },
+        {
+            "name": "Commemorations and the nature of the ANZAC legend",
+            "investigations": [
+            {
+                "description": "Commemorations and the nature of the ANZAC legend",
+                "ac": ["ACDSEH097"],
+                "examples": [
+                    "explain how and why Australians have commemorated the wars",
+                    "explain different perspectives on the ANZAC legend"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "The Modern World and Australia - Overview",
+        "outcomes": [
+        {
+            "description": "Students briefly outline: continuing efforts post-World War II to achieve lasting peace and security in the world, including Australia's involvement in UN peacekeeping",
+            "id": ""
+        },
+        {
+            "description": "Students briefly outline: the major movements for rights and freedoms in the world and the achievement of independence by former colonies",
+            "id": ""
+        },
+        {
+            "description": "Students briefly outline: the nature of the Cold War and Australia's involvement in Cold War and post-Cold War conflicts (Korea, Vietnam, the Gulf Wars and Afghanistan), including the rising influence of Asian nations since the end of the Cold War",
+            "id": ""
+        },
+        {
+            "description": "Students briefly outline: developments in technology, public health, longevity and standard of living during the twentieth century, and concern for the environment and sustainability",
+            "id": ""
+        }],
+        "lifeskills_outcomes":[""],
+        "inquiry_questions": [
+            "How did the nature of global conflict change during the twentieth century?",
+            "What were the consequences of World War II? How did these consequences shape the modern world?",
+            "How was Australian society affected by other significant global events and changes in this period?"
+        ],
+        "focus": "The overview is approximately 10% of the teaching time for The Modern World and Australia. The overview may be taught separately or may be integrated with the depth studies.",
+        "content_areas": [
+        {
+            "name": "Overview",
+            "investigations": [
+            {
+                "description": "Despite attempts to create a lasting peace at the end of World War I, the world was engaged in another global conflict within 20 years. Not only did this conflict cause greater loss of life, it witnessed the Holocaust and the first use of nuclear weapons. In the aftermath of this war decolonisation saw the end of the great European empires and the emergence of new nations, particularly in Asia and Africa. At the same time, the United States and the Soviet Union emerged from World War II as hostile superpowers armed with nuclear weapons in a tense confrontation known as the Cold War. Despite a peaceful end to the Cold War in 1991, the emergence of global terrorism and a shift in economic power to Asia have contributed to ongoing uncertainty. The period since the end of the twentieth century has also been characterised by rising concerns about issues such as globalisation, the environment and sustainability. In spite of these uncertainties, there have been significant advances in technology, especially in communications, public health and living conditions across the world.",
+                "ac": [""],
+                "examples": [
+                    ""
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Depth Study 4: (CORE STUDY) Rights and Freedoms (1945-Present)",
+        "outcomes": [
+        {
+            "description": "sequences and explains the significant patterns of continuity and change in the development of the modern world and Australia",
+            "id": "HT5-2"
+        },
+        {
+            "description": "explains and analyses the motives and actions of past individuals and groups in the historical contexts that shaped the modern world and Australia",
+            "id": "HT5-3"
+        },
+        {
+            "description": "uses relevant evidence from sources to support historical narratives, explanations and analyses of the modern world and Australia",
+            "id": "HT5-6"
+        },
+        {
+            "description": "selects and analyses a range of historical sources to locate information relevant to an historical inquiry",
+            "id": "HT5-8"
+        },
+        {
+            "description": "applies a range of relevant historical terms and concepts when communicating an understanding of the past",
+            "id": "HT5-9"
+        },
+        {
+            "description": "selects and uses appropriate oral, written, visual and digital forms to communicate effectively about the past for different audiences",
+            "id": "HT5-10"
+        }],
+        "lifeskills_outcomes":[
+            "HTLS-5",
+            "HTLS-6",
+            "HTLS-8",
+            "HTLS-10",
+            "HTLS-11",
+            "HTLS-12",
+            "HTLS-13"
+        ],
+        "inquiry_questions": [
+            "How did the nature of global conflict change during the twentieth century?",
+            "What were the consequences of World War II? How did these consequences shape the modern world?",
+            "How was Australian society affected by other significant global events and changes in this period?"
+        ],
+        "focus": "This study is mandatory",
+        "content_areas": [
+        {
+            "name": "The Universal Declaration of Human Rights",
+            "investigations": [
+            {
+                "description": "The origins and significance of the Universal Declaration of Human Rights (UDHR), including Australia's involvement in the development of the declaration",
+                "ac": ["ACDSEH023"],
+                "examples": [
+                    "outline the purpose of the United Nations and describe the origins of the Universal Declaration of Human Rights, including Australia's involvement",
+                    "explain the significance of the UDHR"
+                ]
+            }]
+        },
+        {
+            "name": "Indigenous Australian Rights and Freedoms",
+            "investigations": [
+            {
+                "description": "Background to the struggle of Aboriginal and Torres Strait Islander peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations",
+                "ac": ["ACDSEH104"],
+                "examples": [
+                    "explain the purpose and significance of early twentieth-century Aboriginal activism including the 1938 Day of Mourning protest for Aboriginal and Torres Strait Islander peoples",
+                    "outline the rights and freedoms denied to Aboriginal and Torres Strait Islander peoples before 1965 and the role and policies of the Aboriginal Protection Board, eg the control of wages and reserves",
+                    "using a range of sources, describe the experiences of Aboriginal and Torres Strait Islander peoples who were forcibly removed from their families (Stolen Generations)",
+                    "describe the effects of the assimilation policy for rights and freedoms of Aboriginal and Torres Strait Islander peoples"
+                ]
+            }]
+        },
+        {
+            "name": "The US civil rights movement and its influence on Australia",
+            "investigations": [
+            {
+                "description": "The US civil rights movement and its influence on Australia",
+                "ac": ["ACDSEH105"],
+                "examples": [
+                    "outline the aims and methods of the US civil rights movement",
+                    "explain how the Freedom Rides in the US inspired civil rights campaigners in Australia",
+                    "discuss the impact of the NSW Freedom Ride on the civil rights of Aboriginal and Torres Strait Islander peoples"
+                ]
+            }]
+        },
+        {
+            "name": "Significant Australian Civil Rights events",
+            "investigations": [
+            {
+                "description": "The significance of the following for the civil rights of Aboriginal and Torres Strait Islander peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations); the Apology",
+                "ac": ["ACDSEH106"],
+                "examples": [
+                    "outline the background, aims and significance of key developments in Aboriginal and Torres Strait Islander peoples' struggle for rights and freedoms"
+                ]
+            }]
+        },
+        {
+            "name": "Civil Rights Activism",
+            "investigations": [
+            {
+                "description": "Methods used by civil rights activists to achieve change for Aboriginal and Torres Strait Islander peoples, and the role of ONE individual or group in the struggle",
+                "ac": ["ACDSEH134"],
+                "examples": [
+                    "outline common methods used by civil rights activists to achieve change for Aboriginal and Torres Strait Islander peoples",
+                    "investigate and explain the role of ONE individual or group in the struggle for Aboriginal and Torres Strait Islander peoples' rights and freedoms"
+                ]
+            }]
+        },
+        {
+            "name": "Contemporary Civil Rights",
+            "investigations": [
+            {
+                "description": "The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples",
+                "ac": ["ACDSEH143"],
+                "examples": [
+                    "identify current struggles for civil rights and freedoms throughout the world, such as the United Nations Convention on the Rights of the Child (1990) and the Declaration on the Rights of Indigenous Peoples (2007)",
+                    "identify different methods used globally to attain civil rights and freedoms",
+                    "evaluate the methods and effectiveness of ONE campaign for civil rights and freedoms in Australia or another country"
+                ]
+            }]
+        },
+        {
+            "name": "Site Study",
+            "investigations": [
+            {
+                "description": "Site Study",
+                "ac": [""],
+                "examples": [
+                    "a museum visit",
+                    "a local site of significance",
+                    "a heritage site",
+                    "a virtual historical site"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Depth Study 5: The Globalising World",
+        "outcomes": [
+        {
+            "description": "explains and assesses the historical forces and factors that shaped the modern world and Australia",
+            "id": "HT5-1"
+        },
+        {
+            "description": "explains and analyses the motives and actions of past individuals and groups in the historical contexts that shaped the modern world and Australia",
+            "id": "HT5-3"
+        },
+        {
+            "description": "explains and analyses the causes and effects of events and developments in the modern world and Australia",
+            "id": "HT5-4"
+        },
+        {
+            "description": "identifies and evaluates the usefulness of sources in the historical inquiry process",
+            "id": "HT5-5"
+        },
+        {
+            "description": "explains different contexts, perspectives and interpretations of the modern world and Australia",
+            "id": "HT5-7"
+        },
+        {
+            "description": "applies a range of relevant historical terms and concepts when communicating an understanding of the past",
+            "id": "HT5-9"
+        },
+        {
+            "description": "selects and uses appropriate oral, written, visual and digital forms to communicate effectively about the past for different audiences",
+            "id": "HT5-10"
+        }],
+        "lifeskills_outcomes":[
+            "HTLS-3",
+            "HTLS-4",
+            "HTLS-5",
+            "HTLS-6",
+            "HTLS-7",
+            "HTLS-9",
+            "HTLS-11",
+            "HTLS-12",
+            "HTLS-13"
+        ],
+        "inquiry_questions": [
+            "How did the nature of global conflict change during the twentieth century?",
+            "What were the consequences of World War II? How did these consequences shape the modern world?",
+            "How was Australian society affected by other significant global events and changes in this period?"
+        ],
+        "focus": "Students investigate in depth ONE major global influence that has shaped Australian society from the following: 5a Popular culture OR 5b The environment movement OR 5c Migration experiences",
+        "content_areas": [
+        {
+            "name": "Site Study",
+            "investigations": [
+            {
+                "description": "Site Study",
+                "ac": [""],
+                "examples": [
+                    "a museum visit",
+                    "a site study",
+                    "a virtual historical site"
+                ]
+            }]
+        },
+        {
+            "name": "Topic 5a: Popular culture (1945–present)",
+            "investigations": [
+            {
+                "description": "The nature of popular culture in Australia at the end of World War II, including music, film and sport",
+                "ac": ["ACDSEH027"],
+                "examples": [
+                    "identify the main features of Australian popular culture at the end of World War II, including music, film, fashion and sport"
+                ]
+            },
+            {
+                "description": "Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock 'n' roll",
+                "ac": ["ACDSEH121"],
+                "examples": [
+                    "explain ways in which Australia in the 1950s was influenced by American culture",
+                    "assess the way American and British music influenced post-war Australian entertainment, such as rock 'n' roll",
+                    "use a range of sources to explain the nature and impact of television on Australian popular culture"
+                ]
+            },
+            {
+                "description": "The changing nature of the music, film and television industry in Australia during the post-war period, including the influence of overseas developments (such as Hollywood, Bollywood and the animation film industry in China and Japan)",
+                "ac": ["ACDSEH122"],
+                "examples": [
+                    "describe how advances in communication technology changed at least ONE of the following during the post-war period in Australia: music, film or television",
+                    "discuss how overseas influences have affected ONE aspect of Australian popular culture"
+                ]
+            },
+            {
+                "description": "Australia's contribution to international popular culture (music, film, television, sport)",
+                "ac": ["ACDSEH123"],
+                "examples": [
+                    "assess the contribution of Australian men and women to international sport, eg Olympic Games and Test Cricket",
+                    "using a range of sources, investigate and assess the contribution of Australian men and women to international music, film and television"
+                ]
+            },
+            {
+                "description": "Continuity and change in beliefs and values that have influenced the Australian way of life",
+                "ac": ["ACDSEH149"],
+                "examples": [
+                    "outline and assess the impact of Americanisation and global events on Australian society over time",
+                    "discuss the nature of Australian popular culture today and the legacy of past influences"
+                ]
+            }]
+        },
+        {
+            "name": "Topic 5b: The environment movement (1960s–present)",
+            "investigations": [
+            {
+                "description": "The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia",
+                "ac": ["ACDSEH028"],
+                "examples": [
+                    "identify major threats to the natural environment",
+                    "outline the origins of environmental awareness and activism",
+                    "briefly describe the purpose of the nineteenth-century National Parks movement in America and Australia"
+                ]
+            },
+            {
+                "description": "The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade",
+                "ac": ["ACDSEH125"],
+                "examples": [
+                    "use a range of sources to explain how the growth of cities, population and industries have affected the environment in Australia and the world",
+                    "discuss how global resource needs and trade have intensified environmental issues in developed and developing nations",
+                    "describe the response to key environmental issues in Australian agriculture, eg the back-to-the-land movement, organic farming and permaculture"
+                ]
+            },
+            {
+                "description": "The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment (notion of 'Gaia', 'limits to growth', sustainability, 'rights of nature')",
+                "ac": ["ACDSEH126"],
+                "examples": [
+                    "discuss key events in the growing awareness of environmental issues in Australia and the world before 1975",
+                    "outline the origins and policies of green political parties in the 1980s",
+                    "describe the influence of at least ONE of the following environmental ideas: Gaia'; limits to growth; sustainability; rights of nature"
+                ]
+            },
+            {
+                "description": "Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia's Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998",
+                "ac": ["ACDSEH127"],
+                "examples": [
+                    "outline the important developments in at least ONE environmental event and campaign"
+                ]
+            },
+            {
+                "description": "Responses of governments, including the Australian government, and international organisations to environmental threats since the 1960s, including deforestation and climate change",
+                "ac": ["ACDSEH128"],
+                "examples": [
+                    "assess changing Australian government policies and actions towards environmental issues since the 1960s, including deforestation and climate change",
+                    "discuss ONE Australian government achievement in response to an environmental threat since the 1960s",
+                    "examine the role of international governments and organisations in dealing with at least ONE environmental threat"
+                ]
+            }]
+        },
+        {
+            "name": "Topic 5c: Migration experiences (1945–present)",
+            "investigations": [
+            {
+                "description": "The waves of post-World War II migration to Australia, including the influence of significant world events",
+                "ac": ["ACDSEH144"],
+                "examples": [
+                    "describe the size and composition of Australia's population in 1945",
+                    "sequence the main waves of migration to Australia in the 40 years following World War II, identifying numbers of migrants and countries of origin",
+                    "identify significant world events which influenced post-World War II migration to Australia, eg World War II, the Cold War, the Vietnam War, the Gulf Wars and the war in Afghanistan"
+                ]
+            },
+            {
+                "description": "The impact of changing government policies on Australia's migration patterns, including abolition of the White Australia Policy, 'Populate or Perish'",
+                "ac": ["ACDSEH145"],
+                "examples": [
+                    "outline government policies and practices that restricted migration to Australia before World War II, such as the White Australia Policy, and explain subsequent policies since 1945",
+                    "explain why the government attempted to attract more migrants to Australia during the 1950s and 1960s, with reference to the slogan 'Populate or Perish'",
+                    "using a range of sources, describe the hardships faced by migrants, with a particular focus on the experiences of ONE group who came to Australia between 1945 and 1970"
+                ]
+            },
+            {
+                "description": "The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees",
+                "ac": ["ACDSEH146"],
+                "examples": [
+                    "describe the impact of the Vietnam War or ONE other world event on Australia's migration policy",
+                    "discuss the response of Australians, including the Australian media, to the arrival of refugees from Indochina in the 1970s and 1980s OR refugees from Afghanistan and Iraq since 2001",
+                    "using a range of sources, describe the experiences of ONE group of refugees on their journey to Australia and their experiences on arrival after 1975"
+                ]
+            },
+            {
+                "description": "The contribution of migration to Australia's changing identity as a nation and to its international relationships",
+                "ac": ["ACDSEH147"],
+                "examples": [
+                    "assess the contribution of migrant men and women to Australia's social, cultural and economic development and Australia's changing identity",
+                    "explain how Australia's changing migration policies have affected relationships with other nations"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Depth Study 6: School-Developed Topic",
+        "outcomes": [
+        {
+            "description": "Relevant outcomes should be chosen to support the topic developed.",
+            "id": ""
+        }],
+        "inquiry_questions": [""],
+        "focus": "A school-developed topic from either of the Stage 5 overviews.",
+        "content_areas": [
+        {
+            "name": "School-developed topic",
+            "investigations": [
+            {
+                "description": "Students investigate in depth ONE school-developed topic drawn from the content presented in the Stage 5 overviews, 'The Making of the Modern World' or 'The Modern World and Australia'",
+                "ac": [""],
+                "examples": [
+                    "The Roaring Twenties",
+                    "The Great Depression",
+                    "The Holocaust",
+                    "The Cold War",
+                    "Australia in the Vietnam War era",
+                    "A decade study",
+                    "Women's history",
+                    "The history of workers' rights",
+                    "The United Nations",
+                    "UN peacekeeping",
+                    "The Gulf Wars and the war in Afghanistan",
+                    "The rising influence of China and India since the end of the Cold War",
+                    "Developments in twentieth and twenty-first century technology",
+                    "Other topic drawn from the two overviews"
+                ]
+            }]
+        }]
+    }]
+}
