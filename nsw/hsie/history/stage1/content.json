@@ -1,0 +1,133 @@
+{
+    "learning_area": "hsie",
+    "subject": "history",
+    "stage": "1",
+    "yrLvls": [1, 2],
+    "courses": [
+    {
+        "name": "Present and past family life",
+        "outcomes": [
+        {
+            "description": "communicates an understanding of change and continuity in family life using appropriate historical terms",
+            "id": "HT1-1"
+        },
+        {
+            "description": "demonstrates skills of historical inquiry and communication",
+            "id": "HT1-4"
+        }],
+        "lifeskills_outcomes":[""],
+        "inquiry_questions": [
+            "How has family life changed or remained the same over time?",
+            "How can we show that the present is different from or similar to the past?",
+            "How do we describe the sequence of time?"
+        ],
+        "focus": "no specific focus identitifed",
+        "content_areas": [
+        {
+            "name": "Family structures",
+            "investigations": [
+            {
+                "description": "Differences in family structures and roles today, and how these have changed or remained the same over time",
+                "ac": ["ACHHK028"],
+                "examples": [
+                    "represent graphically the structure of their immediate family",
+                    "compare and contrast their immediate family with earlier families through photographs and other sources, discussing similarities and differences",
+                    "investigate the roles of present family members and compare with the roles of earlier generations using a range of sources",
+                    "discuss similarities and differences from generation to generation, eg family celebrations and traditions, leisure activities and changes in technology/communications over time through a range of sources",
+                    "compare and contrast daily life with that of parents and grandparents at the same age through stories or photographs and pose questions to ask parents/grandparents"
+                ]
+            }]
+        },
+        {
+            "name": "Differences between past and present",
+            "investigations": [
+            {
+                "description": "Differences and similarities between students' daily lives and life during their parents' and grandparents' childhoods, including family traditions, leisure time and communications",
+                "ac": ["ACHHK030"],
+                "examples": [
+                    "represent graphically the structure of their immediate family",
+                    "compare and contrast their immediate family with earlier families through photographs and other sources, discussing similarities and differences",
+                    "investigate the roles of present family members and compare with the roles of earlier generations using a range of sources",
+                    "discuss similarities and differences from generation to generation, eg family celebrations and traditions, leisure activities and changes in technology/communications over time through a range of sources",
+                    "compare and contrast daily life with that of parents and grandparents at the same age through stories or photographs and pose questions to ask parents/grandparents"
+                ]
+            }]
+        },
+        {
+            "name": "Terms and concepts",
+            "investigations": [
+            {
+                "description": "How the present, past and future are signified by terms indicating time such as 'a long time ago', 'then and now', 'now and then', 'old and new', 'tomorrow', as well as by dates and changes that may have personal significance, such as birthdays, celebrations and seasons",
+                "ac": ["ACHHK029"],
+                "examples": [
+                    "sequence days of the week, months and seasons of the year",
+                    "identify days, holidays, events celebrated by students and their families and discuss cultural differences in days celebrated",
+                    "define and use terms relating to time, sequencing objects or photographs from the past, eg then and now, past and present, a long time ago"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "The past in the present",
+        "outcomes": [
+        {
+            "description": "identifies and describes significant people, events, places and sites in the local community over time",
+            "id": "HT1-2"
+        },
+        {
+            "description": "describes the effects of changing technology on people's lives over time",
+            "id": "HT1-3"
+        },
+        {
+            "description": "demonstrates skills of historical inquiry and communication",
+            "id": "HT1-4"
+        }],
+        "inquiry_questions": [
+            "What aspects of the past can you see today?",
+            "What do they tell us?",
+            "What remains of the past are important to the local community? Why?",
+            "How have changes in technology shaped our daily life?"
+        ],
+        "focus": "no specific focus identified",
+        "content_areas": [
+        {
+            "name": "The history of places",
+            "investigations": [
+            {
+                "description": "The history of a significant person, building, site or part of the natural environment in the local community and what it reveals about the past",
+                "ac": ["ACHHK044"],
+                "examples": [
+                    "brainstorm what aspects of the past can be seen in the local area",
+                    "identify a significant person, building, site or part of the natural environment in the local community and discuss what they reveal about the past and why they are considered important",
+                    "investigate an aspect of local history",
+                    "develop a narrative on their chosen aspect of local history which focuses on the remains of the past"
+                ]
+            }]
+        },
+        {
+            "name": "Historical significance",
+            "investigations": [
+            {
+                "description": "The importance today of an historical site of cultural or spiritual significance; for example, a community building, a landmark, a war memorial",
+                "ac": ["ACHHK045"],
+                "examples": [
+                    "identify an historical site or sites in the local community. Discuss their significance, why these sites have survived and the importance of preserving them",
+                    "examine local or regional Aboriginal and Torres Strait Islander sites, eg local national parks"
+                ]
+            }]
+        },
+        {
+            "name": "Impacts of technology",
+            "investigations": [
+            {
+                "description": "The impact of changing technology on people's lives",
+                "ac": ["ACHHK046"],
+                "examples": [
+                    "identify examples of changing technologies in their home or community",
+                    "discuss the similarities and differences of technology from the past through a range of sources and sequence them over time",
+                    "use a range of communication forms to explain how one example of changing technology affected people's lives"
+                ]
+            }]
+        }]
+    }]
+}

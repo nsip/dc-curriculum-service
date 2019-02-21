@@ -1,0 +1,168 @@
+{
+    "learning_area": "",
+    "subject": "",
+    "stage": "",
+    "yrLvls": [1, 2],
+    "courses": [
+    {
+        "name": "Community and rememberance",
+        "outcomes": [
+        {
+            "description": "identifies celebrations and commemorations of significance in Australia and the world",
+            "id": "HT2-1"
+        },
+        {
+            "description": "describes and explains how significant individuals, groups and events contributed to changes in the local community over time",
+            "id": "HT2-2"
+        },
+        {
+            "description": "applies skills of historical inquiry and communication",
+            "id": "HT2-5"
+        }],
+        "lifeskills_outcomes":[""],
+        "inquiry_questions": [
+            "Who lived here first and how do we know?",
+            "How has our community changed? What features have been lost and what features have been retained?",
+            "What is the nature of the contribution made by different groups and individuals in the community?",
+            "How and why do people choose to remember significant events of the past?"
+        ],
+        "focus": "no specific focus identified",
+        "content_areas": [
+        {
+            "name": "Importance of Country and Place",
+            "investigations": [
+            {
+                "description": "The importance of Country and Place to Aboriginal and/or Torres Strait Islander peoples who belong to a local area. (This is intended to be a local area study with a focus on one Language group; however, if information or sources are not readily available, another representative area may be studied.)",
+                "ac": ["ACHHK060"],
+                "examples": [
+                    "identify the original Aboriginal languages spoken in the local or regional area",
+                    "identify the special relationship that Aboriginal and/or Torres Strait Islander peoples have to Country and Place",
+                    "respond to Aboriginal stories told about Country presented in texts or by a guest speaker"
+                ]
+            }]
+        },
+        {
+            "name": "Continuity over time",
+            "investigations": [
+            {
+                "description": "ONE important example of change and ONE important example of continuity over time in the local community, region or state/territory",
+                "ac": ["ACHHK061"],
+                "examples": [
+                    "using a range of sources, describe and explain how and why ONE area, eg transport, work, education, entertainment and daily life, has changed or ONE that has remained the same in the local area, region or state/territory since colonial times"
+                ]
+            }]
+        },
+        {
+            "name": "Community development and character",
+            "investigations": [
+            {
+                "description": "The role that people of diverse backgrounds have played in the development and character of the local community",
+                "ac": ["ACHHK062"],
+                "examples": [
+                    "identify the various cultural groups that live and work in the local community",
+                    "focusing on ONE group, investigate their diverse backgrounds and outline their contribution to the local community using a range of sources, eg photographs, newspapers, oral histories, diaries and letters"
+                ]
+            }]
+        },
+        {
+            "name": "Australian commemorations and celebrations",
+            "investigations": [
+            {
+                "description": "Days and weeks celebrated or commemorated in Australia (including Australia Day, ANZAC Day, Harmony Week, National Reconciliation Week, NAIDOC Week, National Sorry Day) and the importance of symbols and emblems",
+                "ac": ["ACHHK063"],
+                "examples": [
+                    "identify and describe local, state and national symbols and discuss the origins, symbolism and significance, eg the school logo, Australian and Aboriginal and Torres Strait Islander flags, coats of arms from states and Australia",
+                    "identify important Australian celebrations and commemorations and discuss their origins and significance in society"
+                ]
+            }]
+        },
+        {
+            "name": "Global commemorations and celebrations",
+            "investigations": [
+            {
+                "description": "Celebrations and commemorations in other places around the world; for example, Bastille Day in France, Independence Day in the USA, including those that are observed in Australia, such as Chinese New Year, Christmas Day, Diwali, Easter, Hanukkah, the Moon Festival and Ramadan",
+                "ac": ["ACHHK064"],
+                "examples": [
+                    "identify global celebrations and commemorations, including those of the major world religions",
+                    "describe the origin of these celebrations"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "First contacts",
+        "outcomes": [
+        {
+            "description": "describes people, events and actions related to world exploration and its effects",
+            "id": "HT2-3"
+        },
+        {
+            "description": "describes people, events and actions related to world exploration and its effects",
+            "id": "HT2-3"
+        },
+        {
+            "description": "applies skills of historical inquiry and communication",
+            "id": "HT2-5"
+        }],
+        "inquiry_questions": [
+            "Why did the great journeys of exploration occur?",
+            "What was life like for Aboriginal and/or Torres Strait Islander peoples before the arrival of the Europeans?",
+            "Why did Europeans settle in Australia?",
+            "What was the nature and consequence of contact between Aboriginal and/or Torres Strait Islander peoples and early traders, explorers and settlers?"
+        ],
+        "focus": "no specific focus identified",
+        "content_areas": [
+        {
+            "name": "First peoples",
+            "investigations": [
+            {
+                "description": "The diversity and longevity of Australia's first peoples and the ways Aboriginal and/or Torres Strait Islander peoples are connected to Country and Place (land, sea, waterways and skies) and the implications for their daily lives",
+                "ac": ["ACHHK077"],
+                "examples": [
+                    "identify the original inhabitants of Australia and create a timeline indicating their longevity in Australia of more than 50,000 years",
+                    "investigate, drawing on Aboriginal and Torres Strait Islander community representatives (where possible) and other sources, the traditional Aboriginal way of life, focusing on people, their beliefs, food, shelter, tools and weapons, customs and ceremonies, art works, dance, music, and relationship to Country"
+                ]
+            }]
+        },
+        {
+            "name": "First contacts",
+            "investigations": [
+            {
+                "description": "The journey(s) of at least ONE world navigator, explorer or trader up to the late eighteenth century, including their contacts with other societies and any impacts",
+                "ac": ["ACHHK078"],
+                "examples": [
+                    "discuss the significance of opening of world trade routes by early explorers such as Vasco da Gama, Columbus, Magellan",
+                    "outline the voyages of ONE early explorer, eg Zheng He, Torres, Jansz, Tasman, Captain Cook or La Perouse, and explain the impact of their voyages",
+                    "discuss the question: 'Who discovered Australia?'"
+                ]
+            }]
+        },
+        {
+            "name": "The First Fleet",
+            "investigations": [
+            {
+                "description": "Stories of the First Fleet, including reasons for the journey, who travelled to Australia, and their experiences following arrival",
+                "ac": ["ACHHK079"],
+                "examples": [
+                    "identify reasons for the voyage of the First Fleet and explain why various groups were passengers",
+                    "describe the establishment of the British colony at Port Jackson",
+                    "using a range of sources, investigate the everyday life of ONE of the following who sailed on the First Fleet and lived in the early colony: a soldier, convict, ex-convict, official"
+                ]
+            }]
+        },
+        {
+            "name": "Interactions",
+            "investigations": [
+            {
+                "description": "The nature of contact between Aboriginal people and/or Torres Strait Islanders and others, for example, the Macassans and the Europeans, and the effects of these interactions on, for example, families and the environment",
+                "ac": ["ACHHK080"],
+                "examples": [
+                    "describe the nature of contact between Aboriginal people and/or Torres Strait Islander peoples and others, including Aboriginal resistance",
+                    "explain the term terra nullius and describe how this affected the British attitude to Aboriginal and Torres Strait Islander peoples",
+                    "use sources to identify different perspectives on the arrival of the British to Australia",
+                    "outline the impact of early British colonisation on Aboriginal and Torres Strait Islander peoples' country"
+                ]
+            }]
+        }]
+    }]
+}

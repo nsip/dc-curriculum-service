@@ -1,0 +1,94 @@
+{
+    "learning_area": "",
+    "subject": "",
+    "stage": "",
+    "yrLvls": [1, 2],
+    "overview": [
+        "",
+        ""
+    ],
+    "concepts": [
+    {
+        "name": "",
+        "description": ""
+    },
+    {
+        "name": "",
+        "description": ""
+    },
+    {
+        "name": "",
+        "description": ""
+    },
+    {
+        "name": "",
+        "description": ""
+    },
+    {
+        "name": "",
+        "description": ""
+    }],
+    "inquiry_skills": [
+    {
+        "name": "",
+        "skills": [
+        {
+            "skill": "",
+            "ac": ["", ""]
+        },
+        {
+            "skill": "",
+            "ac": ["", ""]
+        }]
+    },
+    {
+        "name": "",
+        "skills": [
+        {
+            "skill": "",
+            "ac": ["", ""]
+        },
+        {
+            "skill": "",
+            "ac": ["", ""]
+        }]
+    },
+    {
+        "name": "",
+        "skills": [
+        {
+            "skill": "",
+            "ac": ["", ""]
+        },
+        {
+            "skill": "",
+            "ac": ["", ""]
+        }]
+    }],
+    "tools": [
+    {
+        "name": "",
+        "examples": [""],
+        "code": ""
+    },
+    {
+        "name": "",
+        "examples": [""],
+        "code": ""
+    },
+    {
+        "name": "",
+        "examples": [""],
+        "code": ""
+    },
+    {
+        "name": "",
+        "examples": [""],
+        "code": ""
+    },
+    {
+        "name": "",
+        "examples": [""],
+        "code": ""
+    }]
+}

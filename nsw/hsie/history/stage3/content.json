@@ -1,0 +1,166 @@
+{
+    "learning_area": "hsie",
+    "subject": "history",
+    "stage": "3",
+    "yrLvls": [5, 6],
+    "courses": [
+    {
+        "name": "The Australian Colonies",
+        "outcomes": [
+        {
+            "description": "describes and explains the significance of people, groups, places and events to the development of Australia",
+            "id": "HT3-1"
+        },
+        {
+            "description": "describes and explains different experiences of people living in Australia over time",
+            "id": "HT3-2"
+        },
+        {
+            "description": "applies a variety of skills of historical inquiry and communication",
+            "id": "HT3-5"
+        }],
+        "lifeskills_outcomes":[""],
+        "inquiry_questions": [
+            "What do we know about the lives of people in Australia's colonial past and how do we know?",
+            "How did an Australian colony develop over time and why?",
+            "How did colonial settlement change the environment?",
+            "What were the significant events and who were the significant people that shaped Australian colonies?"
+        ],
+        "focus": "no focus specified",
+        "content_areas": [
+        {
+            "name": "Reasons for colonisation",
+            "investigations": [
+            {
+                "description": "Reasons (economic, political and social) for the establishment of British colonies in Australia after 1800",
+                "ac": ["ACHHK093"],
+                "examples": [
+                    "discuss why the British government set up colonies in Australia after 1800"
+                ]
+            }]
+        },
+        {
+            "name": "The nature of colonies",
+            "investigations": [
+            {
+                "description": "The nature of convict or colonial presence, including the factors that influenced patterns of development, aspects of the daily life of inhabitants (including Aboriginal and Torres Strait Islander peoples) and how the environment changed",
+                "ac": ["ACHHK094"],
+                "examples": [
+                    "outline settlement patterns in the nineteenth century and the factors which influenced them",
+                    "discuss the impact of settlement on local Aboriginal peoples and the environment",
+                    "discuss the diverse relationships between Aboriginal peoples and the British",
+                    "investigate the everyday life of a variety of men and women in post-1800 colonial settlements using a range of sources and explain their different experiences"
+                ]
+            }]
+        },
+        {
+            "name": "Significant colonial events",
+            "investigations": [
+            {
+                "description": "The impact of a significant development or event on a colony; for example, frontier conflict, the gold rushes, the Eureka Stockade, internal exploration, the advent of rail, the expansion of farming, drought",
+                "ac": ["ACHHK095"],
+                "examples": [
+                    "identify events that have shaped Australia's identity and discuss why they were significant",
+                    "use a range of sources to investigate ONE significant development or event and its impact on the chosen colony"
+                ]
+            }]
+        },
+        {
+            "name": "Reasons for migration",
+            "investigations": [
+            {
+                "description": "The reasons people migrated to Australia from Europe and Asia, and the experiences and contributions of a particular migrant group within a colony",
+                "ac": ["ACHHK096"],
+                "examples": [
+                    "identify the European and Asian countries from which people migrated to Australia during the nineteenth century and reasons for their migration",
+                    "investigate the experiences of a particular migrant group and the contributions they made to society"
+                ]
+            }]
+        },
+        {
+            "name": "Shaping the colony",
+            "investigations": [
+            {
+                "description": "The role that a significant individual or group played in shaping a colony; for example, explorers, farmers, entrepreneurs, artists, writers, humanitarians, religious and political leaders, and Aboriginal and/or Torres Strait Islander peoples",
+                "ac": ["ACHHK097"],
+                "examples": [
+                    "use a range of sources to investigate the role of a particular man, woman or group and the contributions each made to the shaping of the colony"
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "Australia as a Nation",
+        "outcomes": [
+        {
+            "description": "identifies change and continuity and describes the causes and effects of change on Australian society",
+            "id": "HT3-3"
+        },
+        {
+            "description": "describes and explains the struggles for rights and freedoms in Australia, including Aboriginal and Torres Strait Islander peoples",
+            "id": "HT3-4"
+        },
+        {
+            "description": "applies a variety of skills of historical inquiry and communication",
+            "id": "HT3-5"
+        }],
+        "inquiry_questions": [
+            "Why and how did Australia become a nation?",
+            "How did Australian society change throughout the twentieth century?",
+            "Who were the people who came to Australia? Why did they come?",            
+            "What contribution have significant individuals and groups made to the development of Australian society?"
+        ],
+        "focus": "no specific focus identified",
+        "content_areas": [
+        {
+            "name": "Australia's Federation",
+            "investigations": [
+            {
+                "description": "Key figures and events that led to Australia's Federation, including British and American influences on Australia's system of law and government",
+                "ac": ["ACHHK113"],
+                "examples": [
+                    "identify the influences of Britain and the USA on Australian democracy",
+                    "sequence key figures and events and explain their significance in the development of Australian democracy, eg Sir Henry Parkes, Edmund Barton, Louisa Lawson, Vida Goldstein",
+                    "outline local, state and federal government structures and responsibilities"
+                ]
+            }]
+        },
+        {
+            "name": "Experiences of Australian democracy and citizenship",
+            "investigations": [
+            {
+                "description": "Experiences of Australian democracy and citizenship, including the status and rights of Aboriginal people and/or Torres Strait Islanders, migrants, women and children",
+                "ac": ["ACHHK114"],
+                "examples": [
+                    "examine Australian human rights, past and present, affecting Aboriginal and/or Torres Strait Islander peoples, migrants, women and children",
+                    "explain how Australian society has changed throughout the twentieth century for these groups",                    
+                    "investigate the significance of ONE of the following in the struggle for the rights and freedoms of Aboriginal and Torres Strait Islander peoples; the Stolen Generations, the right to vote federally in 1962, the 1967 Referendum, the Mabo decision"
+                ]
+            }]
+        },
+        {
+            "name": "Migrant stories",
+            "investigations": [
+            {
+                "description": "Stories of groups of people who migrated to Australia (including from ONE Asian country) and the reasons they migrated, such as World War II and Australian migration programs since the war",
+                "ac": ["ACHHK115"],
+                "examples": [
+                    ""
+                ]
+            }]
+        },
+        {
+            "name": "Development of Australian society",
+            "investigations": [
+            {
+                "description": "The contribution of individuals and groups, including Aboriginal people and/or Torres Strait Islanders and migrants, to the development of Australian society, for example in areas such as the economy, education, sciences, the arts, sport",
+                "ac": ["ACHHK116"],
+                "examples": [
+                    "use sources such as oral history to research stories of migration to Australia, including the experiences of ONE Asian family, explaining reasons for migration",
+                    "explain how migrants have contributed to Australian society",
+                    "using a range of sources, research and describe the contribution of Aboriginal and Torres Strait Islander peoples and other groups to Australian society"
+                ]
+            }]
+        }]
+    }]
+}

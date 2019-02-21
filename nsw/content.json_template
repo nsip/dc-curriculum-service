@@ -1,0 +1,138 @@
+{
+    "learning_area": "",
+    "subject": "",
+    "stage": "",
+    "yrLvls": [1, 2],
+    "courses": [
+    {
+        "name": "",
+        "outcomes": [
+        {
+            "description": "",
+            "id": ""
+        },
+        {
+            "description": "",
+            "id": ""
+        },
+        {
+            "description": "",
+            "id": ""
+        }],
+        "lifeskills_outcomes":[""],
+        "inquiry_questions": [
+            "",
+            "",
+            ""
+        ],
+        "focus": "",
+        "content_areas": [
+        {
+            "name": "",
+            "investigations": [
+            {
+                "description": "",
+                "ac": [""],
+                "examples": [
+                    "",
+                    "",
+                    ""
+                ]
+            }]
+        },
+        {
+            "name": "",
+            "investigations": [
+            {
+                "description": "",
+                "ac": [""],
+                "examples": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }]
+        },
+        {
+            "name": "",
+            "investigations": [
+            {
+                "description": "",
+                "ac": ["", ""],
+                "examples": [
+                    "",
+                    ""
+                ]
+            }]
+        }]
+    },
+    {
+        "name": "",
+        "outcomes": [
+        {
+            "description": "",
+            "id": ""
+        },
+        {
+            "description": "",
+            "id": ""
+        }],
+        "inquiry_questions": [
+            "",
+            "",
+            ""
+        ],
+        "focus": "",
+        "content_areas": [
+        {
+            "name": "",
+            "investigations": [
+            {
+                "description": "",
+                "ac": [""],
+                "examples": [
+                    "",
+                    ""
+                ]
+            }]
+        },
+        {
+            "name": "",
+            "investigations": [
+            {
+                "description": "",
+                "ac": [""],
+                "examples": [
+                    "",
+                    ""
+                ]
+            }]
+        },
+        {
+            "name": "",
+            "investigations": [
+            {
+                "description": "",
+                "ac": [""],
+                "examples": [
+                    "",
+                    "",
+                    ""
+                ]
+            }]
+        },
+        {
+            "name": "",
+            "investigations": [
+            {
+                "description": "",
+                "ac": ["","",""],
+                "examples": [
+                    "",
+                    ""
+                ]
+            }]
+        }]
+    }]
+}
