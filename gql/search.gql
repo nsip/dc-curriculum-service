@@ -1,0 +1,57 @@
+# searchResult.gql
+
+# gql structure to capture results from a web-search using the Bing engine
+# much of the result data is ommitted as not used. 
+
+
+type BingAnswer {
+	Type: String
+	QueryContext: QueryContext
+	WebPages: WebPages
+}
+
+
+type QueryContext {
+	OriginalQuery: String
+}
+
+type WebPages {
+	WebSearchURL: String
+	TotalEstimatedMatches: Int
+	Value: [Value]
+}
+
+type Value {
+	ID: String
+	Name: String
+	URL: String
+	IsFamilyFriendly: Boolean
+	DisplayURL: String
+	Snippet: String
+	SearchTags: [SearchTag]
+}
+
+type SearchTag {
+	Name: String
+	Content: String
+}
+
+## input type to simplify provision of parameters to search query
+input SearchInput {
+	## learning area i.e. HSIE
+	learning_area: String
+	## subject i.e. Geography
+	subject: String
+	## stage 1-5
+	stage: String
+	## course name if known
+	course_name: String
+	## content area if known
+	content_area: String
+	## any other search keywords
+	keywords: [String]
+}
+
+
+
+
