@@ -1,6 +1,6 @@
 # query.gql
 
-## syllabus is the root query object and contains all details
+## syllabus is the root syllabus query object and contains all details
 ## of the syllabus within  a
 ## state: the syllabus owner e.g. "nsw"
 ## learning_area: broad learning area e.g. "hsie"
@@ -9,4 +9,11 @@
 type syllabus {
 	overview(state: String!, learning_area: String!, subject: String!, stage: String!): overview
 	content(state: String!, learning_area: String!, subject: String!, stage: String!): content
+}
+
+
+## websearch is the root search query object and returns 
+## details of web pages matched to syllabus / lesson requirements
+type websearch {
+	searchRequest(terms: SearchInput): BingAnswer
 }
